@@ -1,9 +1,9 @@
 
-# Personal Profile Website
+# Personal Portfolio Website
 
 ## Project Description
 
-A responsive personal profile website built using:
+A responsive personal portfolio website built using:
 
 - HTML5
 - CSS3
@@ -14,61 +14,107 @@ A responsive personal profile website built using:
 - Semantic HTML structure
 - Responsive design
 - CSS Flexbox and Grid
-- Light and dark theme toggle
+- Light and dark themes
 - Theme preference saved using localStorage
-- Contact form validation
+- Contact form with client-side validation
 - Inline error messages
+
+## Project Structure
+
+set-01-profile/
+|
+|-- index.html
+|-- style.css
+|-- script.js
+|-- README.md
 
 ## How to Run
 
 1. Download or clone the project.
-2. Open the project folder.
-3. Open index.html in your browser.
+2. Open the folder in VS Code.
+3. Open index.html using Live Server.
+4. View the website in your browser.
 
-## What Happens Between Typing a URL and Seeing a Web Page?
+## What Happens When You Enter a URL?
 
-When we type a URL into a browser and press Enter,
-several steps happen before the webpage appears.
+When we enter a URL into the browser, several
+steps happen before the webpage appears.
 
-1. URL Parsing:
-   The browser reads the URL to identify the protocol,
-   domain name, and requested resource.
+### 1. URL Processing
 
-2. DNS Lookup:
-   The browser finds the IP address associated with
-   the domain name.
+The browser reads the URL and identifies the
+protocol, domain and requested resource.
 
-3. Connection:
-   The browser establishes a connection with the server.
-   HTTPS websites also perform a TLS handshake.
+Example:
 
-4. HTTP Request:
-   The browser sends an HTTP request to the server
-   asking for the webpage.
+https://www.example.com
 
-5. Server Response:
-   The server processes the request and sends back
-   an HTTP response containing HTML, CSS, JavaScript,
-   images, and other resources.
+### 2. DNS Lookup
 
-6. HTML Parsing:
-   The browser reads HTML and builds the DOM
-   (Document Object Model).
+The browser needs to find the IP address
+associated with the domain name.
 
-7. CSS Processing:
-   The browser processes CSS and builds the CSSOM
-   (CSS Object Model).
+DNS converts a domain name into an IP address.
 
-8. Rendering:
-   The browser combines the DOM and CSSOM to create
-   the render tree, calculates layout, and paints
-   pixels on the screen.
+### 3. Establishing a Connection
 
-9. JavaScript Execution:
-   JavaScript runs and adds interactivity to the page.
+The browser establishes a network connection
+with the server.
 
-Finally, the browser displays the fully rendered webpage.
+For HTTPS websites, a TLS handshake also
+establishes an encrypted connection.
 
-## Author
+### 4. HTTP Request
 
-Alex
+The browser sends an HTTP request to the server
+asking for the webpage.
+
+### 5. Server Response
+
+The server processes the request and sends
+an HTTP response containing HTML and other
+resources such as CSS, JavaScript and images.
+
+### 6. HTML Parsing
+
+The browser reads the HTML and builds the
+DOM (Document Object Model).
+
+### 7. CSS Processing
+
+The browser downloads and processes CSS,
+building the CSSOM (CSS Object Model).
+
+### 8. JavaScript Execution
+
+The browser downloads and executes JavaScript.
+
+JavaScript can modify the DOM and respond
+to user interactions.
+
+### 9. Rendering
+
+The browser combines the DOM and CSSOM
+to calculate styles and build the render tree.
+
+It then performs:
+
+- Layout: calculates element positions and sizes.
+- Paint: draws text, colors, borders and images.
+- Compositing: combines rendered layers.
+
+Finally, the webpage appears on the screen.
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- Semantic HTML
+- CSS selectors and box model
+- Flexbox and CSS Grid
+- Responsive web design
+- JavaScript DOM manipulation
+- Event listeners
+- localStorage
+- Form validation
+- Browser rendering fundamentals
