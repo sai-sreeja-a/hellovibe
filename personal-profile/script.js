@@ -1,45 +1,47 @@
 
-// ===============================
-// DARK / LIGHT THEME
-// ===============================
+// ========================================
+// 1. THEME TOGGLE
+// ========================================
 
-const themeToggle = document.getElementById("theme-toggle");
+const themeButton = document.getElementById("theme-toggle");
 
-// Load saved theme when the page opens
-const savedTheme = localStorage.getItem("theme");
+function applyTheme(theme) {
 
-if (savedTheme === "dark") {
-    document.body.classList.add("dark-theme");
-}
+    document.documentElement.setAttribute("data-theme", theme);
 
-function updateThemeButton() {
-    if (document.body.classList.contains("dark-theme")) {
-        themeToggle.textContent = "Switch to Light Mode";
+    if (theme === "dark") {
+        themeButton.textContent = "Switch to Light Theme";
     } else {
-        themeToggle.textContent = "Switch to Dark Mode";
+        themeButton.textContent = "Switch to Dark Theme";
     }
 }
 
-updateThemeButton();
+// Load saved theme
+const savedTheme = localStorage.getItem("theme");
 
-// Toggle theme
-themeToggle.addEventListener("click", () => {
+applyTheme(
+    savedTheme === "dark" ? "dark" : "light"
+);
 
-    document.body.classList.toggle("dark-theme");
+// Listen for theme button clicks
+themeButton.addEventListener("click", function () {
 
-    const currentTheme = document.body.classList.contains("dark-theme")
-        ? "dark"
-        : "light";
+    const currentTheme =
+        document.documentElement.getAttribute("data-theme");
 
-    localStorage.setItem("theme", currentTheme);
+    const newTheme =
+        currentTheme === "dark" ? "light" : "dark";
 
-    updateThemeButton();
+    applyTheme(newTheme);
+
+    localStorage.setItem("theme", newTheme);
+
 });
 
 
-// ===============================
-// CONTACT FORM VALIDATION
-// ===============================
+// ========================================
+// 2. SELECT CONTACT FORM ELEMENTS
+// ========================================
 
 const contactForm = document.getElementById("contact-form");
 
@@ -51,60 +53,211 @@ const nameError = document.getElementById("name-error");
 const emailError = document.getElementById("email-error");
 const messageError = document.getElementById("message-error");
 
-const formSuccess = document.getElementById("form-success");
+const formStatus = document.getElementById("form-status");
 
-contactForm.addEventListener("submit", function(event) {
 
-    event.preventDefault();
+// ========================================
+// 3. HELPER FUNCTION
+// ========================================
 
-    // Clear previous errors
-    nameError.textContent = "";
-    emailError.textContent = "";
-    messageError.textContent = "";
-    formSuccess.textContent = "";
+function showError(input, errorElement, message) {
 
-    let isValid = true;
+    errorElement.textContent = message;
 
-    // Name validation
-    if (nameInput.value.trim() === "") {
-        nameError.textContent = "Name is required.";
-        isValid = false;
+    input.classList.add("invalid");
+    input.classList.remove("valid");
+
+    input.setAttribute("aria-invalid", "true");
+}
+
+function showSuccess(input, errorElement) {
+
+    errorElement.textContent = "";
+
+    input.classList.remove("invalid");
+    input.classList.add("valid");
+
+    input.setAttribute("aria-invalid", "false");
+}
+
+
+// ========================================
+// 4. VALIDATE NAME
+// ========================================
+
+function validateName() {
+
+    const name = nameInput.value.trim();
+
+    if (name === "") {
+
+        showError(
+            nameInput,
+            nameError,
+            "Name is required."
+        );
+
+        return false;
     }
 
-    // Email validation
-    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    showSuccess(nameInput, nameError);
 
-    if (emailInput.value.trim() === "") {
-        emailError.textContent = "Email is required.";
-        isValid = false;
-    } else if (!emailPattern.test(emailInput.value.trim())) {
-        emailError.textContent = "Please enter a valid email address.";
-        isValid = false;
+    return true;
+}
+
+
+// ========================================
+// 5. VALIDATE EMAIL
+// ========================================
+
+function validateEmail() {
+
+    const email = emailInput.value.trim();
+
+    const emailPattern =
+        /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    if (email === "") {
+
+        showError(
+            emailInput,
+            emailError,
+            "Email is required."
+        );
+
+        return false;
     }
 
-    // Message validation
+    if (!emailPattern.test(email)) {
+
+        showError(
+            emailInput,
+            emailError,
+            "Please enter a valid email address."
+        );
+
+        return false;
+    }
+
+    showSuccess(emailInput, emailError);
+
+    return true;
+}
+
+
+// ========================================
+// 6. VALIDATE MESSAGE
+// ========================================
+
+function validateMessage() {
+
     const message = messageInput.value.trim();
 
     if (message === "") {
-        messageError.textContent = "Message is required.";
-        isValid = false;
-    } else if (message.length < 10) {
-        messageError.textContent =
-            "Message must contain at least 10 characters.";
-        isValid = false;
-    } else if (message.length > 500) {
-        messageError.textContent =
-            "Message cannot exceed 500 characters.";
-        isValid = false;
+
+        showError(
+            messageInput,
+            messageError,
+            "Message is required."
+        );
+
+        return false;
     }
 
-    // Successful validation
-    if (isValid) {
+    if (message.length < 10) {
 
-        formSuccess.textContent =
-            "Your message passed validation successfully!";
+        showError(
+            messageInput,
+            messageError,
+            "Message must contain at least 10 characters."
+        );
 
+        return false;
+    }
+
+    if (message.length > 500) {
+
+        showError(
+            messageInput,
+            messageError,
+            "Message cannot exceed 500 characters."
+        );
+
+        return false;
+    }
+
+    showSuccess(messageInput, messageError);
+
+    return true;
+}
+
+
+// ========================================
+// 7. VALIDATE WHILE TYPING
+// ========================================
+
+nameInput.addEventListener("input", function () {
+
+    validateName();
+    formStatus.textContent = "";
+
+});
+
+emailInput.addEventListener("input", function () {
+
+    validateEmail();
+    formStatus.textContent = "";
+
+});
+
+messageInput.addEventListener("input", function () {
+
+    validateMessage();
+    formStatus.textContent = "";
+
+});
+
+
+// ========================================
+// 8. FORM SUBMISSION
+// ========================================
+
+contactForm.addEventListener("submit", function (event) {
+
+    event.preventDefault();
+
+    formStatus.textContent = "";
+
+    const nameValid = validateName();
+    const emailValid = validateEmail();
+    const messageValid = validateMessage();
+
+    if (nameValid && emailValid && messageValid) {
+
+        formStatus.textContent =
+            "Success! Your form passed validation.";
+
+        formStatus.className = "success-message";
+
+        // Clear the form
         contactForm.reset();
+
+        // Remove validation styles
+        nameInput.classList.remove("valid");
+        emailInput.classList.remove("valid");
+        messageInput.classList.remove("valid");
+
+        nameInput.removeAttribute("aria-invalid");
+        emailInput.removeAttribute("aria-invalid");
+        messageInput.removeAttribute("aria-invalid");
+
+    } else {
+
+        formStatus.textContent =
+            "Please correct the errors above.";
+
+        formStatus.className = "";
+
     }
 
 });
