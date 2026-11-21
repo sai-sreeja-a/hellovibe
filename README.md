@@ -1,221 +1,12 @@
-# JavaScript & TypeScript Fundamentals
+# Set 02 – JavaScript & TypeScript
 
-## Project Overview
+## 📌 Project Overview
 
-This project demonstrates my understanding of JavaScript and TypeScript fundamentals through practical implementations.
+This project focuses on implementing JavaScript utility functions and building a TypeScript-based ETL (Extract, Transform, Load) data processing pipeline.
 
-The project includes:
+It also includes order management services, TypeScript interfaces, and unit tests to validate the functionality of the implemented methods.
 
-- Custom JavaScript utility functions.
-- Fetching data from multiple public APIs.
-- Handling asynchronous operations using Promises and async/await.
-- Building a typed ETL (Extract, Transform, Load) pipeline.
-- Implementing a TypeScript order management system.
-- Understanding important JavaScript concepts.
-
----
-
-## 1. Closures
-
-### What is a Closure?
-
-A closure is a feature in JavaScript where an inner function remembers and can access variables from its outer function, even after the outer function has finished executing.
-
-Closures allow functions to maintain access to their surrounding scope.
-
-### Example
-
-```javascript
-function createCounter() {
-  let count = 0;
-
-  return function () {
-    count++;
-    return count;
-  };
-}
-
-const counter = createCounter();
-
-console.log(counter()); // 1
-console.log(counter()); // 2
-console.log(counter()); // 3
-```
-
-### Explanation
-
-1. The `createCounter()` function creates a variable called `count`.
-2. It returns an inner function.
-3. The inner function accesses and modifies the `count` variable.
-4. Even after `createCounter()` finishes execution, the inner function remembers the variable.
-5. Each time we call `counter()`, the value increases.
-
-### Common Uses of Closures
-
-- Data privacy.
-- Maintaining state between function calls.
-- Function factories.
-- Event handlers.
-- Debouncing and throttling.
-
----
-
-## 2. JavaScript Event Loop
-
-### What is the Event Loop?
-
-JavaScript is single-threaded, meaning it executes JavaScript code using one main call stack.
-
-The event loop manages asynchronous operations and determines when their callbacks can execute.
-
-It allows JavaScript to handle operations such as timers, promises, and API requests without blocking the main thread while those operations are waiting.
-
-### Important Components
-
-**1. Call Stack**
-
-The call stack executes synchronous JavaScript functions. Functions are added to the stack when called and removed when they finish.
-
-**2. Web APIs / Runtime APIs**
-
-The browser or JavaScript runtime provides APIs for operations such as timers and network requests.
-
-**3. Callback Queue (Task Queue)**
-
-This queue holds callbacks from tasks such as `setTimeout` after they are ready to execute.
-
-**4. Microtask Queue**
-
-This queue holds higher-priority asynchronous callbacks, including Promise `.then()`, `.catch()`, and `.finally()` handlers.
-
-**5. Event Loop**
-
-The event loop checks whether the call stack is empty. When it is, it processes queued microtasks before moving to the next task.
-
-### Example
-
-```javascript
-console.log("Start");
-
-setTimeout(() => {
-  console.log("Timeout");
-}, 0);
-
-Promise.resolve().then(() => {
-  console.log("Promise");
-});
-
-console.log("End");
-```
-
-### Output
-
-```text
-Start
-End
-Promise
-Timeout
-```
-
-### Explanation
-
-1. `"Start"` is printed immediately because it is synchronous.
-2. `setTimeout()` schedules its callback as a task.
-3. The Promise callback is added to the microtask queue.
-4. `"End"` is printed because synchronous execution continues.
-5. After the call stack becomes empty, the event loop processes the microtask queue.
-6. `"Promise"` is printed.
-7. The event loop then processes the timer task, printing `"Timeout"`.
-
-### Execution Order
-
-The simplified execution order is:
-
-1. Execute synchronous code.
-2. Process available microtasks.
-3. Process the next task from the task queue.
-4. Repeat.
-
-### Why is the Event Loop Important?
-
-- It enables asynchronous JavaScript execution.
-- It helps prevent blocking while waiting for asynchronous operations.
-- It explains how Promises and timers are scheduled.
-- It is important when working with APIs, user interactions, and timers.
-
----
-
-## 3. `==` vs `===` in JavaScript
-
-JavaScript provides two common equality operators: `==` and `===`.
-
-### Loose Equality (`==`)
-
-The `==` operator compares two values after performing type coercion when necessary.
-
-This means JavaScript may convert one value to another type before comparing them.
-
-Example:
-
-```javascript
-console.log(5 == "5");       // true
-console.log(0 == false);     // true
-console.log(null == undefined); // true
-```
-
-### Strict Equality (`===`)
-
-The `===` operator compares both value and type without performing type coercion.
-
-Example:
-
-```javascript
-console.log(5 === "5");      // false
-console.log(0 === false);    // false
-console.log(5 === 5);        // true
-```
-
-### Difference Between `==` and `===`
-
-| Feature | `==` | `===` |
-|---|---|---|
-| Comparison | Value after coercion | Value and type |
-| Type coercion | Yes, when needed | No |
-| Strict comparison | No | Yes |
-| Recommended usage | Only when coercion is intentional | Preferred in most cases |
-
-### Practical Example
-
-```javascript
-const userInput = "100";
-const actualAmount = 100;
-
-if (userInput == actualAmount) {
-  console.log("Values are equal");
-}
-
-if (userInput === actualAmount) {
-  console.log("Values and types are equal");
-}
-```
-
-Output:
-
-```text
-Values are equal
-```
-
-The first condition is true because JavaScript converts the string `"100"` into a number for comparison.
-
-The second condition is false because one value is a string and the other is a number.
-
-### Best Practice
-
-Use `===` and `!==` in most situations because they avoid unexpected type coercion and make comparisons more predictable.
-
----
-
-## 4. Project Structure
+## 📂 Project Structure
 
 ```text
 set-02-javascript-typescript/
@@ -259,46 +50,112 @@ set-02-javascript-typescript/
 └── README.md
 ```
 
----
+## 🚀 Key Modules
 
-## 5. Running the Project
+### 1. JavaScript Utilities
 
-### Install Dependencies
+Implementation of commonly used JavaScript utility functions:
+
+- **Map:** Transforms elements in an array.
+- **Filter:** Filters elements based on a condition.
+- **Reduce:** Reduces an array into a single value.
+- **Debounce:** Controls the frequency of function execution.
+- **Deep Clone:** Creates a deep copy of an object.
+- **ForEach:** Iterates through array elements.
+
+### 2. ETL Data Processing
+
+A TypeScript-based ETL pipeline that works with data stored in JSON format.
+
+The pipeline includes:
+
+- **Data Generation:** Generates sample data.
+- **Parser:** Reads and parses JSON data.
+- **Validator:** Validates incoming data.
+- **Normalizer:** Cleans and standardizes data.
+- **Grouping:** Groups data based on defined criteria.
+- **Summary:** Generates summarized results.
+- **Index:** Coordinates the ETL processing workflow.
+
+### 3. Order Management
+
+The orders module includes:
+
+- Type definitions using TypeScript.
+- Order service implementation.
+- Order service unit tests.
+
+## 🧪 Testing
+
+Unit tests are included to verify the JavaScript utility functions:
+
+- map.test.ts
+- filter.test.ts
+- reduce.test.ts
+- debounce.test.ts
+- deepClone.test.ts
+- forEach.test.ts
+
+Order service testing is also included in the orders module.
+
+## 🛠️ Technologies Used
+
+- JavaScript
+- TypeScript
+- Node.js
+- JSON
+- Git
+- GitHub
+
+## ⚙️ Installation and Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sai-sreeja-a/hellovibe.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd set-02-javascript-typescript
+```
+
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-### Run All Tests
+### 4. Run TypeScript type checking
 
 ```bash
-npm run test:run
+npx tsc --noEmit
 ```
 
-### Check TypeScript Errors
+### 5. Run tests
+
+Use the test script configured in package.json:
 
 ```bash
-npm run typecheck
+npm test
 ```
 
-### Generate Messy ETL Data
+## 🎯 Learning Objectives
 
-```bash
-npm run etl
-```
+- Understand JavaScript array methods and their implementations.
+- Work with asynchronous JavaScript concepts.
+- Practice TypeScript interfaces and type definitions.
+- Build a structured ETL data processing pipeline.
+- Implement data validation and transformation.
+- Understand unit testing and code quality.
 
-### Run the ETL Pipeline
+## 👩‍💻 Author
 
-```bash
-npm run etl:run
-```
+**Sai Sreeja**
+
+GitHub: [sai-sreeja-a](https://github.com/sai-sreeja-a)
 
 ---
 
-## Conclusion
-
-Through this project, I practised JavaScript fundamentals, asynchronous programming, TypeScript generics, data processing, and testing.
-
-I also gained a better understanding of closures, the event loop, and equality operators in JavaScript.
-
-This project helped me improve my problem-solving skills and understand how to write reusable, type-safe, and testable code.
+*Set 02 – JavaScript & TypeScript*

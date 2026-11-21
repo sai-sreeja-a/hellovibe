@@ -1,0 +1,515 @@
+/* =================================
+   1. GLOBAL RESET
+================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =================================
+   2. CSS VARIABLES
+================================= */
+
+:root {
+    --primary-color: #2563eb;
+    --primary-hover: #1d4ed8;
+
+    --background-color: #f8fafc;
+    --surface-color: #ffffff;
+
+    --text-color: #1e293b;
+    --secondary-text: #64748b;
+
+    --border-color: #e2e8f0;
+
+    --shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+}
+
+/* =================================
+   3. GLOBAL STYLES
+================================= */
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+ul {
+    list-style: none;
+}
+
+button,
+input,
+textarea {
+    font: inherit;
+}
+
+/* =================================
+   4. HEADER
+================================= */
+
+header {
+    background-color: var(--surface-color);
+    padding: 20px 8%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 20px;
+    flex-wrap: wrap;
+
+    box-shadow: var(--shadow);
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header h1 {
+    font-size: 25px;
+    color: var(--primary-color);
+}
+
+/* =================================
+   5. NAVIGATION
+================================= */
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+nav a {
+    color: var(--text-color);
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: var(--primary-color);
+}
+
+/* =================================
+   6. BUTTONS
+================================= */
+
+button {
+    background-color: var(--primary-color);
+    color: white;
+
+    border: none;
+    padding: 10px 18px;
+
+    border-radius: 8px;
+    cursor: pointer;
+
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: var(--primary-hover);
+}
+
+/* =================================
+   7. MAIN CONTENT
+================================= */
+
+main {
+    width: 84%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* =================================
+   8. COMMON SECTION STYLES
+================================= */
+
+section {
+    padding: 70px 20px;
+    scroll-margin-top: 85px;
+}
+
+section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+section p {
+    color: var(--secondary-text);
+}
+
+/* =================================
+   9. HOME SECTION
+================================= */
+
+#home {
+    min-height: 400px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    gap: 18px;
+}
+
+#home h2 {
+    font-size: clamp(32px, 5vw, 52px);
+}
+
+#home a {
+    display: inline-block;
+
+    background-color: var(--primary-color);
+    color: white;
+
+    padding: 12px 22px;
+    border-radius: 8px;
+
+    font-weight: bold;
+}
+
+#home a:hover {
+    background-color: var(--primary-hover);
+}
+
+/* =================================
+   10. ABOUT SECTION
+================================= */
+
+#about {
+    background-color: var(--surface-color);
+    border-radius: 12px;
+    padding: 40px;
+}
+
+/* =================================
+   11. SKILLS SECTION
+================================= */
+
+#skills ul {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(130px, 1fr));
+
+    gap: 15px;
+    margin-top: 25px;
+}
+
+#skills li {
+    background-color: var(--surface-color);
+
+    padding: 18px;
+    text-align: center;
+
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+
+    font-weight: bold;
+}
+
+/* =================================
+   12. PROJECTS SECTION
+================================= */
+
+#projects {
+    padding-top: 70px;
+}
+
+#projects article {
+    background-color: var(--surface-color);
+
+    padding: 25px;
+    border-radius: 12px;
+
+    box-shadow: var(--shadow);
+
+    margin-bottom: 20px;
+
+    border-left: 4px solid var(--primary-color);
+    transition: transform 0.3s ease;
+}
+
+#projects article:hover {
+    transform: translateY(-5px);
+}
+
+#projects article h3 {
+    margin-bottom: 10px;
+}
+
+/* =================================
+   13. CONTACT FORM
+================================= */
+
+#contact {
+    background-color: var(--surface-color);
+    padding: 40px;
+    border-radius: 12px;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 600px;
+}
+
+#contact-form div {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#contact-form label {
+    font-weight: bold;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: 100%;
+
+    padding: 12px;
+    border: 1px solid var(--border-color);
+
+    border-radius: 8px;
+
+    background-color: var(--background-color);
+    color: var(--text-color);
+
+    outline: none;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+#contact-form textarea {
+    resize: vertical;
+}
+
+#contact-form small {
+    color: #dc2626;
+    min-height: 18px;
+}
+
+#form-status {
+    font-weight: bold;
+}
+
+/* =================================
+   14. FOOTER
+================================= */
+
+footer {
+    background-color: #1e293b;
+    color: white;
+
+    text-align: center;
+    padding: 25px;
+
+    margin-top: 60px;
+}
+
+/* =================================
+   15. TABLET RESPONSIVENESS
+================================= */
+
+@media (max-width: 900px) {
+
+    header {
+        padding: 18px 5%;
+    }
+
+    main {
+        width: 90%;
+    }
+
+    nav ul {
+        gap: 15px;
+    }
+
+    section {
+        padding: 55px 15px;
+    }
+}
+
+/* =================================
+   16. MOBILE RESPONSIVENESS
+================================= */
+
+@media (max-width: 600px) {
+
+    header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    nav ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 12px 18px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    main {
+        width: 92%;
+    }
+
+    section {
+        padding: 40px 10px;
+    }
+
+    section h2 {
+        font-size: 25px;
+    }
+
+    #home {
+        min-height: 350px;
+    }
+
+    #about,
+    #contact {
+        padding: 25px 18px;
+    }
+
+    #skills ul {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+    }
+
+    #projects article {
+        padding: 20px;
+    }
+}
+
+/* =================================
+   17. DARK THEME
+================================= */
+
+[data-theme="dark"] {
+    --background-color: #0f172a;
+    --surface-color: #1e293b;
+
+    --text-color: #f1f5f9;
+    --secondary-text: #cbd5e1;
+
+    --border-color: #475569;
+
+    --primary-color: #60a5fa;
+    --primary-hover: #3b82f6;
+
+    --shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+/* Smooth theme transition */
+
+body,
+header,
+section,
+#about,
+#contact,
+#projects article,
+#skills li {
+    transition:
+        background-color 0.3s ease,
+        color 0.3s ease,
+        border-color 0.3s ease;
+}
+
+/* Dark theme footer */
+
+[data-theme="dark"] footer {
+    background-color: #020617;
+}
+
+/* Theme button */
+
+#theme-toggle {
+    white-space: nowrap;
+}
+
+/* =================================
+   18. CONTACT FORM VALIDATION
+================================= */
+
+#contact-form .error-message {
+    color: #dc2626;
+    font-size: 13px;
+    min-height: 18px;
+}
+
+#contact-form .success-message {
+    color: #16a34a;
+}
+
+#contact-form input.invalid,
+#contact-form textarea.invalid {
+    border: 2px solid #dc2626;
+}
+
+#contact-form input.valid,
+#contact-form textarea.valid {
+    border: 2px solid #16a34a;
+}
+
+#contact-form button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+
+/* Contact form error styles */
+
+#contact-form .error-message {
+    display: block;
+    color: #dc2626;
+    font-size: 13px;
+    min-height: 18px;
+}
+
+#contact-form input.invalid,
+#contact-form textarea.invalid {
+    border: 2px solid #dc2626;
+}
+
+#contact-form input.valid,
+#contact-form textarea.valid {
+    border: 2px solid #16a34a;
+}
+
+#form-status.success-message {
+    color: #16a34a;
+    font-weight: bold;
+}
+
+#form-status:not(.success-message) {
+    color: #dc2626;
+}
