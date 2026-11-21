@@ -1,0 +1,23 @@
+{
+  "name": "set-02-javascript-typescript",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript fundamentals",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "etl": "tsx src/etl/generateData.ts",
+    "etl:run": "tsx src/etl/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.1"
+  }
+}

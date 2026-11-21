@@ -1,0 +1,8002 @@
+[
+  {
+    "order_id": 1,
+    "customer": " Customer 1 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 2,
+    "customer": " Customer 2 ",
+    "category": "Clothing",
+    "amount": "20",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 3,
+    "customer": " Customer 3 ",
+    "category": "Food",
+    "amount": "30",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 4,
+    "customer": " Customer 4 ",
+    "category": "Furniture",
+    "amount": "40",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 5,
+    "customer": " Customer 5 ",
+    "category": "Electronics",
+    "amount": "50",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 6,
+    "customer": "",
+    "category": "Clothing",
+    "amount": "60",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 7,
+    "customer": " Customer 7 ",
+    "category": "Food",
+    "amount": "70",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 8,
+    "customer": " Customer 8 ",
+    "category": "Furniture",
+    "amount": "80",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 9,
+    "customer": " Customer 9 ",
+    "category": "Electronics",
+    "amount": "90",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 10,
+    "customer": " Customer 10 ",
+    "category": "Clothing",
+    "amount": "100",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 11,
+    "customer": " Customer 11 ",
+    "category": " electronics ",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 12,
+    "customer": " Customer 12 ",
+    "category": "Furniture",
+    "amount": "120",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 13,
+    "customer": " Customer 13 ",
+    "category": "Electronics",
+    "amount": "130",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 14,
+    "customer": " Customer 14 ",
+    "category": "Clothing",
+    "amount": "140",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 15,
+    "customer": " Customer 15 ",
+    "category": "Food",
+    "amount": "150",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 16,
+    "customer": " Customer 16 ",
+    "category": "Furniture",
+    "amount": "-100",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 17,
+    "customer": " Customer 17 ",
+    "category": "Electronics",
+    "amount": "170",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 18,
+    "customer": " Customer 18 ",
+    "category": "Clothing",
+    "amount": "180",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 19,
+    "customer": " Customer 19 ",
+    "category": "Food",
+    "amount": "190",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 20,
+    "customer": " Customer 20 ",
+    "category": "Furniture",
+    "amount": "200",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 21,
+    "customer": " Customer 21 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 22,
+    "customer": " Customer 22 ",
+    "category": "Clothing",
+    "amount": "220",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 23,
+    "customer": " Customer 23 ",
+    "category": "Food",
+    "amount": "230",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 24,
+    "customer": " Customer 24 ",
+    "category": "Furniture",
+    "amount": "240",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 25,
+    "customer": " Customer 25 ",
+    "category": "Electronics",
+    "amount": "250",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 26,
+    "customer": " Customer 26 ",
+    "category": "Clothing",
+    "amount": "260",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 27,
+    "customer": " Customer 27 ",
+    "category": "Food",
+    "amount": "270",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 28,
+    "customer": " Customer 28 ",
+    "category": "Furniture",
+    "amount": "280",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 29,
+    "customer": " Customer 29 ",
+    "category": "Electronics",
+    "amount": "290",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 30,
+    "customer": " Customer 30 ",
+    "category": "Clothing",
+    "amount": "300",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 31,
+    "customer": " Customer 31 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 32,
+    "customer": " Customer 32 ",
+    "category": "Furniture",
+    "amount": "320",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 33,
+    "customer": " Customer 33 ",
+    "category": "Electronics",
+    "amount": "330",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 34,
+    "customer": " Customer 34 ",
+    "category": "Clothing",
+    "amount": "340",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 35,
+    "customer": " Customer 35 ",
+    "category": "Food",
+    "amount": "350",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 36,
+    "customer": " Customer 36 ",
+    "category": "Furniture",
+    "amount": "360",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 37,
+    "customer": " Customer 37 ",
+    "category": "Electronics",
+    "amount": "370",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 38,
+    "customer": " Customer 38 ",
+    "category": "Clothing",
+    "amount": "380",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 39,
+    "customer": " Customer 39 ",
+    "category": "Food",
+    "amount": "390",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 40,
+    "customer": " Customer 40 ",
+    "category": "Furniture",
+    "amount": "400",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 41,
+    "customer": " Customer 41 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 42,
+    "customer": " Customer 42 ",
+    "category": "Clothing",
+    "amount": "420",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 43,
+    "customer": " Customer 43 ",
+    "category": "Food",
+    "amount": "430",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 44,
+    "customer": " Customer 44 ",
+    "category": "Furniture",
+    "amount": "440",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 45,
+    "customer": " Customer 45 ",
+    "category": "Electronics",
+    "amount": "450",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 46,
+    "customer": " Customer 46 ",
+    "category": "Clothing",
+    "amount": "460",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 47,
+    "customer": " Customer 47 ",
+    "category": "Food",
+    "amount": "470",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 48,
+    "customer": " Customer 48 ",
+    "category": "Furniture",
+    "amount": "480",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 49,
+    "customer": " Customer 49 ",
+    "category": "Electronics",
+    "amount": "490",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 50,
+    "customer": " Customer 50 ",
+    "category": "Clothing",
+    "amount": "500",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 51,
+    "customer": " Customer 51 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 52,
+    "customer": " Customer 52 ",
+    "category": "Furniture",
+    "amount": "520",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 53,
+    "customer": " Customer 53 ",
+    "category": "Electronics",
+    "amount": "530",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 54,
+    "customer": " Customer 54 ",
+    "category": "Clothing",
+    "amount": "540",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 55,
+    "customer": " Customer 55 ",
+    "category": "Food",
+    "amount": "550",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 56,
+    "customer": " Customer 56 ",
+    "category": "Furniture",
+    "amount": "560",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 57,
+    "customer": " Customer 57 ",
+    "category": "Electronics",
+    "amount": "570",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 58,
+    "customer": " Customer 58 ",
+    "category": "Clothing",
+    "amount": "580",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 59,
+    "customer": " Customer 59 ",
+    "category": "Food",
+    "amount": "590",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 60,
+    "customer": " Customer 60 ",
+    "category": "Furniture",
+    "amount": "600",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 61,
+    "customer": " Customer 61 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 62,
+    "customer": " Customer 62 ",
+    "category": "Clothing",
+    "amount": "620",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 63,
+    "customer": " Customer 63 ",
+    "category": "Food",
+    "amount": "630",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 64,
+    "customer": " Customer 64 ",
+    "category": "Furniture",
+    "amount": "640",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 65,
+    "customer": " Customer 65 ",
+    "category": "Electronics",
+    "amount": "650",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 66,
+    "customer": " Customer 66 ",
+    "category": "Clothing",
+    "amount": "660",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 67,
+    "customer": " Customer 67 ",
+    "category": "Food",
+    "amount": "670",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 68,
+    "customer": " Customer 68 ",
+    "category": "Furniture",
+    "amount": "680",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 69,
+    "customer": " Customer 69 ",
+    "category": "Electronics",
+    "amount": "690",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 70,
+    "customer": " Customer 70 ",
+    "category": "Clothing",
+    "amount": "700",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 71,
+    "customer": " Customer 71 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 72,
+    "customer": " Customer 72 ",
+    "category": "Furniture",
+    "amount": "720",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 73,
+    "customer": " Customer 73 ",
+    "category": "Electronics",
+    "amount": "730",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 74,
+    "customer": " Customer 74 ",
+    "category": "Clothing",
+    "amount": "740",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 75,
+    "customer": " Customer 75 ",
+    "category": "Food",
+    "amount": "750",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 76,
+    "customer": " Customer 76 ",
+    "category": "Furniture",
+    "amount": "760",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 77,
+    "customer": " Customer 77 ",
+    "category": "Electronics",
+    "amount": "770",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 78,
+    "customer": " Customer 78 ",
+    "category": "Clothing",
+    "amount": "780",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 79,
+    "customer": " Customer 79 ",
+    "category": "Food",
+    "amount": "790",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 80,
+    "customer": " Customer 80 ",
+    "category": "Furniture",
+    "amount": "800",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 81,
+    "customer": " Customer 81 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 82,
+    "customer": " Customer 82 ",
+    "category": "Clothing",
+    "amount": "820",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 83,
+    "customer": " Customer 83 ",
+    "category": "Food",
+    "amount": "830",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 84,
+    "customer": " Customer 84 ",
+    "category": "Furniture",
+    "amount": "840",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 85,
+    "customer": " Customer 85 ",
+    "category": "Electronics",
+    "amount": "850",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 86,
+    "customer": " Customer 86 ",
+    "category": "Clothing",
+    "amount": "860",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 87,
+    "customer": " Customer 87 ",
+    "category": "Food",
+    "amount": "870",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 88,
+    "customer": " Customer 88 ",
+    "category": "Furniture",
+    "amount": "880",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 89,
+    "customer": " Customer 89 ",
+    "category": "Electronics",
+    "amount": "890",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 90,
+    "customer": " Customer 90 ",
+    "category": "Clothing",
+    "amount": "900",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 91,
+    "customer": " Customer 91 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 92,
+    "customer": " Customer 92 ",
+    "category": "Furniture",
+    "amount": "920",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 93,
+    "customer": " Customer 93 ",
+    "category": "Electronics",
+    "amount": "930",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 94,
+    "customer": " Customer 94 ",
+    "category": "Clothing",
+    "amount": "940",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 95,
+    "customer": " Customer 95 ",
+    "category": "Food",
+    "amount": "950",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 96,
+    "customer": " Customer 96 ",
+    "category": "Furniture",
+    "amount": "960",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 97,
+    "customer": " Customer 97 ",
+    "category": "Electronics",
+    "amount": "970",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 98,
+    "customer": " Customer 98 ",
+    "category": "Clothing",
+    "amount": "980",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 99,
+    "customer": " Customer 99 ",
+    "category": "Food",
+    "amount": "990",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 100,
+    "customer": " Customer 100 ",
+    "category": "Furniture",
+    "amount": "1000",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 101,
+    "customer": " Customer 101 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 102,
+    "customer": " Customer 102 ",
+    "category": "Clothing",
+    "amount": "1020",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 103,
+    "customer": " Customer 103 ",
+    "category": "Food",
+    "amount": "1030",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 104,
+    "customer": " Customer 104 ",
+    "category": "Furniture",
+    "amount": "1040",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 105,
+    "customer": " Customer 105 ",
+    "category": "Electronics",
+    "amount": "1050",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 106,
+    "customer": " Customer 106 ",
+    "category": "Clothing",
+    "amount": "1060",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 107,
+    "customer": " Customer 107 ",
+    "category": "Food",
+    "amount": "1070",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 108,
+    "customer": " Customer 108 ",
+    "category": "Furniture",
+    "amount": "1080",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 109,
+    "customer": " Customer 109 ",
+    "category": "Electronics",
+    "amount": "1090",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 110,
+    "customer": " Customer 110 ",
+    "category": "Clothing",
+    "amount": "1100",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 111,
+    "customer": " Customer 111 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 112,
+    "customer": " Customer 112 ",
+    "category": "Furniture",
+    "amount": "1120",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 113,
+    "customer": " Customer 113 ",
+    "category": "Electronics",
+    "amount": "1130",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 114,
+    "customer": " Customer 114 ",
+    "category": "Clothing",
+    "amount": "1140",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 115,
+    "customer": " Customer 115 ",
+    "category": "Food",
+    "amount": "1150",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 116,
+    "customer": " Customer 116 ",
+    "category": "Furniture",
+    "amount": "1160",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 117,
+    "customer": " Customer 117 ",
+    "category": "Electronics",
+    "amount": "1170",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 118,
+    "customer": " Customer 118 ",
+    "category": "Clothing",
+    "amount": "1180",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 119,
+    "customer": " Customer 119 ",
+    "category": "Food",
+    "amount": "1190",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 120,
+    "customer": " Customer 120 ",
+    "category": "Furniture",
+    "amount": "1200",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 121,
+    "customer": " Customer 121 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 122,
+    "customer": " Customer 122 ",
+    "category": "Clothing",
+    "amount": "1220",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 123,
+    "customer": " Customer 123 ",
+    "category": "Food",
+    "amount": "1230",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 124,
+    "customer": " Customer 124 ",
+    "category": "Furniture",
+    "amount": "1240",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 125,
+    "customer": " Customer 125 ",
+    "category": "Electronics",
+    "amount": "1250",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 126,
+    "customer": " Customer 126 ",
+    "category": "Clothing",
+    "amount": "1260",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 127,
+    "customer": " Customer 127 ",
+    "category": "Food",
+    "amount": "1270",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 128,
+    "customer": " Customer 128 ",
+    "category": "Furniture",
+    "amount": "1280",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 129,
+    "customer": " Customer 129 ",
+    "category": "Electronics",
+    "amount": "1290",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 130,
+    "customer": " Customer 130 ",
+    "category": "Clothing",
+    "amount": "1300",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 131,
+    "customer": " Customer 131 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 132,
+    "customer": " Customer 132 ",
+    "category": "Furniture",
+    "amount": "1320",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 133,
+    "customer": " Customer 133 ",
+    "category": "Electronics",
+    "amount": "1330",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 134,
+    "customer": " Customer 134 ",
+    "category": "Clothing",
+    "amount": "1340",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 135,
+    "customer": " Customer 135 ",
+    "category": "Food",
+    "amount": "1350",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 136,
+    "customer": " Customer 136 ",
+    "category": "Furniture",
+    "amount": "1360",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 137,
+    "customer": " Customer 137 ",
+    "category": "Electronics",
+    "amount": "1370",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 138,
+    "customer": " Customer 138 ",
+    "category": "Clothing",
+    "amount": "1380",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 139,
+    "customer": " Customer 139 ",
+    "category": "Food",
+    "amount": "1390",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 140,
+    "customer": " Customer 140 ",
+    "category": "Furniture",
+    "amount": "1400",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 141,
+    "customer": " Customer 141 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 142,
+    "customer": " Customer 142 ",
+    "category": "Clothing",
+    "amount": "1420",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 143,
+    "customer": " Customer 143 ",
+    "category": "Food",
+    "amount": "1430",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 144,
+    "customer": " Customer 144 ",
+    "category": "Furniture",
+    "amount": "1440",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 145,
+    "customer": " Customer 145 ",
+    "category": "Electronics",
+    "amount": "1450",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 146,
+    "customer": " Customer 146 ",
+    "category": "Clothing",
+    "amount": "1460",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 147,
+    "customer": " Customer 147 ",
+    "category": "Food",
+    "amount": "1470",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 148,
+    "customer": " Customer 148 ",
+    "category": "Furniture",
+    "amount": "1480",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 149,
+    "customer": " Customer 149 ",
+    "category": "Electronics",
+    "amount": "1490",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 150,
+    "customer": " Customer 150 ",
+    "category": "Clothing",
+    "amount": "1500",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 151,
+    "customer": " Customer 151 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 152,
+    "customer": " Customer 152 ",
+    "category": "Furniture",
+    "amount": "1520",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 153,
+    "customer": " Customer 153 ",
+    "category": "Electronics",
+    "amount": "1530",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 154,
+    "customer": " Customer 154 ",
+    "category": "Clothing",
+    "amount": "1540",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 155,
+    "customer": " Customer 155 ",
+    "category": "Food",
+    "amount": "1550",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 156,
+    "customer": " Customer 156 ",
+    "category": "Furniture",
+    "amount": "1560",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 157,
+    "customer": " Customer 157 ",
+    "category": "Electronics",
+    "amount": "1570",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 158,
+    "customer": " Customer 158 ",
+    "category": "Clothing",
+    "amount": "1580",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 159,
+    "customer": " Customer 159 ",
+    "category": "Food",
+    "amount": "1590",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 160,
+    "customer": " Customer 160 ",
+    "category": "Furniture",
+    "amount": "1600",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 161,
+    "customer": " Customer 161 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 162,
+    "customer": " Customer 162 ",
+    "category": "Clothing",
+    "amount": "1620",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 163,
+    "customer": " Customer 163 ",
+    "category": "Food",
+    "amount": "1630",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 164,
+    "customer": " Customer 164 ",
+    "category": "Furniture",
+    "amount": "1640",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 165,
+    "customer": " Customer 165 ",
+    "category": "Electronics",
+    "amount": "1650",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 166,
+    "customer": " Customer 166 ",
+    "category": "Clothing",
+    "amount": "1660",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 167,
+    "customer": " Customer 167 ",
+    "category": "Food",
+    "amount": "1670",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 168,
+    "customer": " Customer 168 ",
+    "category": "Furniture",
+    "amount": "1680",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 169,
+    "customer": " Customer 169 ",
+    "category": "Electronics",
+    "amount": "1690",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 170,
+    "customer": " Customer 170 ",
+    "category": "Clothing",
+    "amount": "1700",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 171,
+    "customer": " Customer 171 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 172,
+    "customer": " Customer 172 ",
+    "category": "Furniture",
+    "amount": "1720",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 173,
+    "customer": " Customer 173 ",
+    "category": "Electronics",
+    "amount": "1730",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 174,
+    "customer": " Customer 174 ",
+    "category": "Clothing",
+    "amount": "1740",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 175,
+    "customer": " Customer 175 ",
+    "category": "Food",
+    "amount": "1750",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 176,
+    "customer": " Customer 176 ",
+    "category": "Furniture",
+    "amount": "1760",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 177,
+    "customer": " Customer 177 ",
+    "category": "Electronics",
+    "amount": "1770",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 178,
+    "customer": " Customer 178 ",
+    "category": "Clothing",
+    "amount": "1780",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 179,
+    "customer": " Customer 179 ",
+    "category": "Food",
+    "amount": "1790",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 180,
+    "customer": " Customer 180 ",
+    "category": "Furniture",
+    "amount": "1800",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 181,
+    "customer": " Customer 181 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 182,
+    "customer": " Customer 182 ",
+    "category": "Clothing",
+    "amount": "1820",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 183,
+    "customer": " Customer 183 ",
+    "category": "Food",
+    "amount": "1830",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 184,
+    "customer": " Customer 184 ",
+    "category": "Furniture",
+    "amount": "1840",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 185,
+    "customer": " Customer 185 ",
+    "category": "Electronics",
+    "amount": "1850",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 186,
+    "customer": " Customer 186 ",
+    "category": "Clothing",
+    "amount": "1860",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 187,
+    "customer": " Customer 187 ",
+    "category": "Food",
+    "amount": "1870",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 188,
+    "customer": " Customer 188 ",
+    "category": "Furniture",
+    "amount": "1880",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 189,
+    "customer": " Customer 189 ",
+    "category": "Electronics",
+    "amount": "1890",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 190,
+    "customer": " Customer 190 ",
+    "category": "Clothing",
+    "amount": "1900",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 191,
+    "customer": " Customer 191 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 192,
+    "customer": " Customer 192 ",
+    "category": "Furniture",
+    "amount": "1920",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 193,
+    "customer": " Customer 193 ",
+    "category": "Electronics",
+    "amount": "1930",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 194,
+    "customer": " Customer 194 ",
+    "category": "Clothing",
+    "amount": "1940",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 195,
+    "customer": " Customer 195 ",
+    "category": "Food",
+    "amount": "1950",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 196,
+    "customer": " Customer 196 ",
+    "category": "Furniture",
+    "amount": "1960",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 197,
+    "customer": " Customer 197 ",
+    "category": "Electronics",
+    "amount": "1970",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 198,
+    "customer": " Customer 198 ",
+    "category": "Clothing",
+    "amount": "1980",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 199,
+    "customer": " Customer 199 ",
+    "category": "Food",
+    "amount": "1990",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 200,
+    "customer": " Customer 200 ",
+    "category": "Furniture",
+    "amount": "2000",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 201,
+    "customer": " Customer 201 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 202,
+    "customer": " Customer 202 ",
+    "category": "Clothing",
+    "amount": "2020",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 203,
+    "customer": " Customer 203 ",
+    "category": "Food",
+    "amount": "2030",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 204,
+    "customer": " Customer 204 ",
+    "category": "Furniture",
+    "amount": "2040",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 205,
+    "customer": " Customer 205 ",
+    "category": "Electronics",
+    "amount": "2050",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 206,
+    "customer": " Customer 206 ",
+    "category": "Clothing",
+    "amount": "2060",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 207,
+    "customer": " Customer 207 ",
+    "category": "Food",
+    "amount": "2070",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 208,
+    "customer": " Customer 208 ",
+    "category": "Furniture",
+    "amount": "2080",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 209,
+    "customer": " Customer 209 ",
+    "category": "Electronics",
+    "amount": "2090",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 210,
+    "customer": " Customer 210 ",
+    "category": "Clothing",
+    "amount": "2100",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 211,
+    "customer": " Customer 211 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 212,
+    "customer": " Customer 212 ",
+    "category": "Furniture",
+    "amount": "2120",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 213,
+    "customer": " Customer 213 ",
+    "category": "Electronics",
+    "amount": "2130",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 214,
+    "customer": " Customer 214 ",
+    "category": "Clothing",
+    "amount": "2140",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 215,
+    "customer": " Customer 215 ",
+    "category": "Food",
+    "amount": "2150",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 216,
+    "customer": " Customer 216 ",
+    "category": "Furniture",
+    "amount": "2160",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 217,
+    "customer": " Customer 217 ",
+    "category": "Electronics",
+    "amount": "2170",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 218,
+    "customer": " Customer 218 ",
+    "category": "Clothing",
+    "amount": "2180",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 219,
+    "customer": " Customer 219 ",
+    "category": "Food",
+    "amount": "2190",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 220,
+    "customer": " Customer 220 ",
+    "category": "Furniture",
+    "amount": "2200",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 221,
+    "customer": " Customer 221 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 222,
+    "customer": " Customer 222 ",
+    "category": "Clothing",
+    "amount": "2220",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 223,
+    "customer": " Customer 223 ",
+    "category": "Food",
+    "amount": "2230",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 224,
+    "customer": " Customer 224 ",
+    "category": "Furniture",
+    "amount": "2240",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 225,
+    "customer": " Customer 225 ",
+    "category": "Electronics",
+    "amount": "2250",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 226,
+    "customer": " Customer 226 ",
+    "category": "Clothing",
+    "amount": "2260",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 227,
+    "customer": " Customer 227 ",
+    "category": "Food",
+    "amount": "2270",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 228,
+    "customer": " Customer 228 ",
+    "category": "Furniture",
+    "amount": "2280",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 229,
+    "customer": " Customer 229 ",
+    "category": "Electronics",
+    "amount": "2290",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 230,
+    "customer": " Customer 230 ",
+    "category": "Clothing",
+    "amount": "2300",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 231,
+    "customer": " Customer 231 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 232,
+    "customer": " Customer 232 ",
+    "category": "Furniture",
+    "amount": "2320",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 233,
+    "customer": " Customer 233 ",
+    "category": "Electronics",
+    "amount": "2330",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 234,
+    "customer": " Customer 234 ",
+    "category": "Clothing",
+    "amount": "2340",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 235,
+    "customer": " Customer 235 ",
+    "category": "Food",
+    "amount": "2350",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 236,
+    "customer": " Customer 236 ",
+    "category": "Furniture",
+    "amount": "2360",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 237,
+    "customer": " Customer 237 ",
+    "category": "Electronics",
+    "amount": "2370",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 238,
+    "customer": " Customer 238 ",
+    "category": "Clothing",
+    "amount": "2380",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 239,
+    "customer": " Customer 239 ",
+    "category": "Food",
+    "amount": "2390",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 240,
+    "customer": " Customer 240 ",
+    "category": "Furniture",
+    "amount": "2400",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 241,
+    "customer": " Customer 241 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 242,
+    "customer": " Customer 242 ",
+    "category": "Clothing",
+    "amount": "2420",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 243,
+    "customer": " Customer 243 ",
+    "category": "Food",
+    "amount": "2430",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 244,
+    "customer": " Customer 244 ",
+    "category": "Furniture",
+    "amount": "2440",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 245,
+    "customer": " Customer 245 ",
+    "category": "Electronics",
+    "amount": "2450",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 246,
+    "customer": " Customer 246 ",
+    "category": "Clothing",
+    "amount": "2460",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 247,
+    "customer": " Customer 247 ",
+    "category": "Food",
+    "amount": "2470",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 248,
+    "customer": " Customer 248 ",
+    "category": "Furniture",
+    "amount": "2480",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 249,
+    "customer": " Customer 249 ",
+    "category": "Electronics",
+    "amount": "2490",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 250,
+    "customer": " Customer 250 ",
+    "category": "Clothing",
+    "amount": "2500",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 251,
+    "customer": " Customer 251 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 252,
+    "customer": " Customer 252 ",
+    "category": "Furniture",
+    "amount": "2520",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 253,
+    "customer": " Customer 253 ",
+    "category": "Electronics",
+    "amount": "2530",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 254,
+    "customer": " Customer 254 ",
+    "category": "Clothing",
+    "amount": "2540",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 255,
+    "customer": " Customer 255 ",
+    "category": "Food",
+    "amount": "2550",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 256,
+    "customer": " Customer 256 ",
+    "category": "Furniture",
+    "amount": "2560",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 257,
+    "customer": " Customer 257 ",
+    "category": "Electronics",
+    "amount": "2570",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 258,
+    "customer": " Customer 258 ",
+    "category": "Clothing",
+    "amount": "2580",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 259,
+    "customer": " Customer 259 ",
+    "category": "Food",
+    "amount": "2590",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 260,
+    "customer": " Customer 260 ",
+    "category": "Furniture",
+    "amount": "2600",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 261,
+    "customer": " Customer 261 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 262,
+    "customer": " Customer 262 ",
+    "category": "Clothing",
+    "amount": "2620",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 263,
+    "customer": " Customer 263 ",
+    "category": "Food",
+    "amount": "2630",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 264,
+    "customer": " Customer 264 ",
+    "category": "Furniture",
+    "amount": "2640",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 265,
+    "customer": " Customer 265 ",
+    "category": "Electronics",
+    "amount": "2650",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 266,
+    "customer": " Customer 266 ",
+    "category": "Clothing",
+    "amount": "2660",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 267,
+    "customer": " Customer 267 ",
+    "category": "Food",
+    "amount": "2670",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 268,
+    "customer": " Customer 268 ",
+    "category": "Furniture",
+    "amount": "2680",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 269,
+    "customer": " Customer 269 ",
+    "category": "Electronics",
+    "amount": "2690",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 270,
+    "customer": " Customer 270 ",
+    "category": "Clothing",
+    "amount": "2700",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 271,
+    "customer": " Customer 271 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 272,
+    "customer": " Customer 272 ",
+    "category": "Furniture",
+    "amount": "2720",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 273,
+    "customer": " Customer 273 ",
+    "category": "Electronics",
+    "amount": "2730",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 274,
+    "customer": " Customer 274 ",
+    "category": "Clothing",
+    "amount": "2740",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 275,
+    "customer": " Customer 275 ",
+    "category": "Food",
+    "amount": "2750",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 276,
+    "customer": " Customer 276 ",
+    "category": "Furniture",
+    "amount": "2760",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 277,
+    "customer": " Customer 277 ",
+    "category": "Electronics",
+    "amount": "2770",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 278,
+    "customer": " Customer 278 ",
+    "category": "Clothing",
+    "amount": "2780",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 279,
+    "customer": " Customer 279 ",
+    "category": "Food",
+    "amount": "2790",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 280,
+    "customer": " Customer 280 ",
+    "category": "Furniture",
+    "amount": "2800",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 281,
+    "customer": " Customer 281 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 282,
+    "customer": " Customer 282 ",
+    "category": "Clothing",
+    "amount": "2820",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 283,
+    "customer": " Customer 283 ",
+    "category": "Food",
+    "amount": "2830",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 284,
+    "customer": " Customer 284 ",
+    "category": "Furniture",
+    "amount": "2840",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 285,
+    "customer": " Customer 285 ",
+    "category": "Electronics",
+    "amount": "2850",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 286,
+    "customer": " Customer 286 ",
+    "category": "Clothing",
+    "amount": "2860",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 287,
+    "customer": " Customer 287 ",
+    "category": "Food",
+    "amount": "2870",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 288,
+    "customer": " Customer 288 ",
+    "category": "Furniture",
+    "amount": "2880",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 289,
+    "customer": " Customer 289 ",
+    "category": "Electronics",
+    "amount": "2890",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 290,
+    "customer": " Customer 290 ",
+    "category": "Clothing",
+    "amount": "2900",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 291,
+    "customer": " Customer 291 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 292,
+    "customer": " Customer 292 ",
+    "category": "Furniture",
+    "amount": "2920",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 293,
+    "customer": " Customer 293 ",
+    "category": "Electronics",
+    "amount": "2930",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 294,
+    "customer": " Customer 294 ",
+    "category": "Clothing",
+    "amount": "2940",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 295,
+    "customer": " Customer 295 ",
+    "category": "Food",
+    "amount": "2950",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 296,
+    "customer": " Customer 296 ",
+    "category": "Furniture",
+    "amount": "2960",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 297,
+    "customer": " Customer 297 ",
+    "category": "Electronics",
+    "amount": "2970",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 298,
+    "customer": " Customer 298 ",
+    "category": "Clothing",
+    "amount": "2980",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 299,
+    "customer": " Customer 299 ",
+    "category": "Food",
+    "amount": "2990",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 300,
+    "customer": " Customer 300 ",
+    "category": "Furniture",
+    "amount": "3000",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 301,
+    "customer": " Customer 301 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 302,
+    "customer": " Customer 302 ",
+    "category": "Clothing",
+    "amount": "3020",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 303,
+    "customer": " Customer 303 ",
+    "category": "Food",
+    "amount": "3030",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 304,
+    "customer": " Customer 304 ",
+    "category": "Furniture",
+    "amount": "3040",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 305,
+    "customer": " Customer 305 ",
+    "category": "Electronics",
+    "amount": "3050",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 306,
+    "customer": " Customer 306 ",
+    "category": "Clothing",
+    "amount": "3060",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 307,
+    "customer": " Customer 307 ",
+    "category": "Food",
+    "amount": "3070",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 308,
+    "customer": " Customer 308 ",
+    "category": "Furniture",
+    "amount": "3080",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 309,
+    "customer": " Customer 309 ",
+    "category": "Electronics",
+    "amount": "3090",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 310,
+    "customer": " Customer 310 ",
+    "category": "Clothing",
+    "amount": "3100",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 311,
+    "customer": " Customer 311 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 312,
+    "customer": " Customer 312 ",
+    "category": "Furniture",
+    "amount": "3120",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 313,
+    "customer": " Customer 313 ",
+    "category": "Electronics",
+    "amount": "3130",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 314,
+    "customer": " Customer 314 ",
+    "category": "Clothing",
+    "amount": "3140",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 315,
+    "customer": " Customer 315 ",
+    "category": "Food",
+    "amount": "3150",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 316,
+    "customer": " Customer 316 ",
+    "category": "Furniture",
+    "amount": "3160",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 317,
+    "customer": " Customer 317 ",
+    "category": "Electronics",
+    "amount": "3170",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 318,
+    "customer": " Customer 318 ",
+    "category": "Clothing",
+    "amount": "3180",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 319,
+    "customer": " Customer 319 ",
+    "category": "Food",
+    "amount": "3190",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 320,
+    "customer": " Customer 320 ",
+    "category": "Furniture",
+    "amount": "3200",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 321,
+    "customer": " Customer 321 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 322,
+    "customer": " Customer 322 ",
+    "category": "Clothing",
+    "amount": "3220",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 323,
+    "customer": " Customer 323 ",
+    "category": "Food",
+    "amount": "3230",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 324,
+    "customer": " Customer 324 ",
+    "category": "Furniture",
+    "amount": "3240",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 325,
+    "customer": " Customer 325 ",
+    "category": "Electronics",
+    "amount": "3250",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 326,
+    "customer": " Customer 326 ",
+    "category": "Clothing",
+    "amount": "3260",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 327,
+    "customer": " Customer 327 ",
+    "category": "Food",
+    "amount": "3270",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 328,
+    "customer": " Customer 328 ",
+    "category": "Furniture",
+    "amount": "3280",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 329,
+    "customer": " Customer 329 ",
+    "category": "Electronics",
+    "amount": "3290",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 330,
+    "customer": " Customer 330 ",
+    "category": "Clothing",
+    "amount": "3300",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 331,
+    "customer": " Customer 331 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 332,
+    "customer": " Customer 332 ",
+    "category": "Furniture",
+    "amount": "3320",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 333,
+    "customer": " Customer 333 ",
+    "category": "Electronics",
+    "amount": "3330",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 334,
+    "customer": " Customer 334 ",
+    "category": "Clothing",
+    "amount": "3340",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 335,
+    "customer": " Customer 335 ",
+    "category": "Food",
+    "amount": "3350",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 336,
+    "customer": " Customer 336 ",
+    "category": "Furniture",
+    "amount": "3360",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 337,
+    "customer": " Customer 337 ",
+    "category": "Electronics",
+    "amount": "3370",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 338,
+    "customer": " Customer 338 ",
+    "category": "Clothing",
+    "amount": "3380",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 339,
+    "customer": " Customer 339 ",
+    "category": "Food",
+    "amount": "3390",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 340,
+    "customer": " Customer 340 ",
+    "category": "Furniture",
+    "amount": "3400",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 341,
+    "customer": " Customer 341 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 342,
+    "customer": " Customer 342 ",
+    "category": "Clothing",
+    "amount": "3420",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 343,
+    "customer": " Customer 343 ",
+    "category": "Food",
+    "amount": "3430",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 344,
+    "customer": " Customer 344 ",
+    "category": "Furniture",
+    "amount": "3440",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 345,
+    "customer": " Customer 345 ",
+    "category": "Electronics",
+    "amount": "3450",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 346,
+    "customer": " Customer 346 ",
+    "category": "Clothing",
+    "amount": "3460",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 347,
+    "customer": " Customer 347 ",
+    "category": "Food",
+    "amount": "3470",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 348,
+    "customer": " Customer 348 ",
+    "category": "Furniture",
+    "amount": "3480",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 349,
+    "customer": " Customer 349 ",
+    "category": "Electronics",
+    "amount": "3490",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 350,
+    "customer": " Customer 350 ",
+    "category": "Clothing",
+    "amount": "3500",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 351,
+    "customer": " Customer 351 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 352,
+    "customer": " Customer 352 ",
+    "category": "Furniture",
+    "amount": "3520",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 353,
+    "customer": " Customer 353 ",
+    "category": "Electronics",
+    "amount": "3530",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 354,
+    "customer": " Customer 354 ",
+    "category": "Clothing",
+    "amount": "3540",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 355,
+    "customer": " Customer 355 ",
+    "category": "Food",
+    "amount": "3550",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 356,
+    "customer": " Customer 356 ",
+    "category": "Furniture",
+    "amount": "3560",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 357,
+    "customer": " Customer 357 ",
+    "category": "Electronics",
+    "amount": "3570",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 358,
+    "customer": " Customer 358 ",
+    "category": "Clothing",
+    "amount": "3580",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 359,
+    "customer": " Customer 359 ",
+    "category": "Food",
+    "amount": "3590",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 360,
+    "customer": " Customer 360 ",
+    "category": "Furniture",
+    "amount": "3600",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 361,
+    "customer": " Customer 361 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 362,
+    "customer": " Customer 362 ",
+    "category": "Clothing",
+    "amount": "3620",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 363,
+    "customer": " Customer 363 ",
+    "category": "Food",
+    "amount": "3630",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 364,
+    "customer": " Customer 364 ",
+    "category": "Furniture",
+    "amount": "3640",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 365,
+    "customer": " Customer 365 ",
+    "category": "Electronics",
+    "amount": "3650",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 366,
+    "customer": " Customer 366 ",
+    "category": "Clothing",
+    "amount": "3660",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 367,
+    "customer": " Customer 367 ",
+    "category": "Food",
+    "amount": "3670",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 368,
+    "customer": " Customer 368 ",
+    "category": "Furniture",
+    "amount": "3680",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 369,
+    "customer": " Customer 369 ",
+    "category": "Electronics",
+    "amount": "3690",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 370,
+    "customer": " Customer 370 ",
+    "category": "Clothing",
+    "amount": "3700",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 371,
+    "customer": " Customer 371 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 372,
+    "customer": " Customer 372 ",
+    "category": "Furniture",
+    "amount": "3720",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 373,
+    "customer": " Customer 373 ",
+    "category": "Electronics",
+    "amount": "3730",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 374,
+    "customer": " Customer 374 ",
+    "category": "Clothing",
+    "amount": "3740",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 375,
+    "customer": " Customer 375 ",
+    "category": "Food",
+    "amount": "3750",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 376,
+    "customer": " Customer 376 ",
+    "category": "Furniture",
+    "amount": "3760",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 377,
+    "customer": " Customer 377 ",
+    "category": "Electronics",
+    "amount": "3770",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 378,
+    "customer": " Customer 378 ",
+    "category": "Clothing",
+    "amount": "3780",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 379,
+    "customer": " Customer 379 ",
+    "category": "Food",
+    "amount": "3790",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 380,
+    "customer": " Customer 380 ",
+    "category": "Furniture",
+    "amount": "3800",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 381,
+    "customer": " Customer 381 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 382,
+    "customer": " Customer 382 ",
+    "category": "Clothing",
+    "amount": "3820",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 383,
+    "customer": " Customer 383 ",
+    "category": "Food",
+    "amount": "3830",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 384,
+    "customer": " Customer 384 ",
+    "category": "Furniture",
+    "amount": "3840",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 385,
+    "customer": " Customer 385 ",
+    "category": "Electronics",
+    "amount": "3850",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 386,
+    "customer": " Customer 386 ",
+    "category": "Clothing",
+    "amount": "3860",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 387,
+    "customer": " Customer 387 ",
+    "category": "Food",
+    "amount": "3870",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 388,
+    "customer": " Customer 388 ",
+    "category": "Furniture",
+    "amount": "3880",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 389,
+    "customer": " Customer 389 ",
+    "category": "Electronics",
+    "amount": "3890",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 390,
+    "customer": " Customer 390 ",
+    "category": "Clothing",
+    "amount": "3900",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 391,
+    "customer": " Customer 391 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 392,
+    "customer": " Customer 392 ",
+    "category": "Furniture",
+    "amount": "3920",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 393,
+    "customer": " Customer 393 ",
+    "category": "Electronics",
+    "amount": "3930",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 394,
+    "customer": " Customer 394 ",
+    "category": "Clothing",
+    "amount": "3940",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 395,
+    "customer": " Customer 395 ",
+    "category": "Food",
+    "amount": "3950",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 396,
+    "customer": " Customer 396 ",
+    "category": "Furniture",
+    "amount": "3960",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 397,
+    "customer": " Customer 397 ",
+    "category": "Electronics",
+    "amount": "3970",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 398,
+    "customer": " Customer 398 ",
+    "category": "Clothing",
+    "amount": "3980",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 399,
+    "customer": " Customer 399 ",
+    "category": "Food",
+    "amount": "3990",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 400,
+    "customer": " Customer 400 ",
+    "category": "Furniture",
+    "amount": "4000",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 401,
+    "customer": " Customer 401 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 402,
+    "customer": " Customer 402 ",
+    "category": "Clothing",
+    "amount": "4020",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 403,
+    "customer": " Customer 403 ",
+    "category": "Food",
+    "amount": "4030",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 404,
+    "customer": " Customer 404 ",
+    "category": "Furniture",
+    "amount": "4040",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 405,
+    "customer": " Customer 405 ",
+    "category": "Electronics",
+    "amount": "4050",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 406,
+    "customer": " Customer 406 ",
+    "category": "Clothing",
+    "amount": "4060",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 407,
+    "customer": " Customer 407 ",
+    "category": "Food",
+    "amount": "4070",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 408,
+    "customer": " Customer 408 ",
+    "category": "Furniture",
+    "amount": "4080",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 409,
+    "customer": " Customer 409 ",
+    "category": "Electronics",
+    "amount": "4090",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 410,
+    "customer": " Customer 410 ",
+    "category": "Clothing",
+    "amount": "4100",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 411,
+    "customer": " Customer 411 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 412,
+    "customer": " Customer 412 ",
+    "category": "Furniture",
+    "amount": "4120",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 413,
+    "customer": " Customer 413 ",
+    "category": "Electronics",
+    "amount": "4130",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 414,
+    "customer": " Customer 414 ",
+    "category": "Clothing",
+    "amount": "4140",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 415,
+    "customer": " Customer 415 ",
+    "category": "Food",
+    "amount": "4150",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 416,
+    "customer": " Customer 416 ",
+    "category": "Furniture",
+    "amount": "4160",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 417,
+    "customer": " Customer 417 ",
+    "category": "Electronics",
+    "amount": "4170",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 418,
+    "customer": " Customer 418 ",
+    "category": "Clothing",
+    "amount": "4180",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 419,
+    "customer": " Customer 419 ",
+    "category": "Food",
+    "amount": "4190",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 420,
+    "customer": " Customer 420 ",
+    "category": "Furniture",
+    "amount": "4200",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 421,
+    "customer": " Customer 421 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 422,
+    "customer": " Customer 422 ",
+    "category": "Clothing",
+    "amount": "4220",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 423,
+    "customer": " Customer 423 ",
+    "category": "Food",
+    "amount": "4230",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 424,
+    "customer": " Customer 424 ",
+    "category": "Furniture",
+    "amount": "4240",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 425,
+    "customer": " Customer 425 ",
+    "category": "Electronics",
+    "amount": "4250",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 426,
+    "customer": " Customer 426 ",
+    "category": "Clothing",
+    "amount": "4260",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 427,
+    "customer": " Customer 427 ",
+    "category": "Food",
+    "amount": "4270",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 428,
+    "customer": " Customer 428 ",
+    "category": "Furniture",
+    "amount": "4280",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 429,
+    "customer": " Customer 429 ",
+    "category": "Electronics",
+    "amount": "4290",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 430,
+    "customer": " Customer 430 ",
+    "category": "Clothing",
+    "amount": "4300",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 431,
+    "customer": " Customer 431 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 432,
+    "customer": " Customer 432 ",
+    "category": "Furniture",
+    "amount": "4320",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 433,
+    "customer": " Customer 433 ",
+    "category": "Electronics",
+    "amount": "4330",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 434,
+    "customer": " Customer 434 ",
+    "category": "Clothing",
+    "amount": "4340",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 435,
+    "customer": " Customer 435 ",
+    "category": "Food",
+    "amount": "4350",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 436,
+    "customer": " Customer 436 ",
+    "category": "Furniture",
+    "amount": "4360",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 437,
+    "customer": " Customer 437 ",
+    "category": "Electronics",
+    "amount": "4370",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 438,
+    "customer": " Customer 438 ",
+    "category": "Clothing",
+    "amount": "4380",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 439,
+    "customer": " Customer 439 ",
+    "category": "Food",
+    "amount": "4390",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 440,
+    "customer": " Customer 440 ",
+    "category": "Furniture",
+    "amount": "4400",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 441,
+    "customer": " Customer 441 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 442,
+    "customer": " Customer 442 ",
+    "category": "Clothing",
+    "amount": "4420",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 443,
+    "customer": " Customer 443 ",
+    "category": "Food",
+    "amount": "4430",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 444,
+    "customer": " Customer 444 ",
+    "category": "Furniture",
+    "amount": "4440",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 445,
+    "customer": " Customer 445 ",
+    "category": "Electronics",
+    "amount": "4450",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 446,
+    "customer": " Customer 446 ",
+    "category": "Clothing",
+    "amount": "4460",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 447,
+    "customer": " Customer 447 ",
+    "category": "Food",
+    "amount": "4470",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 448,
+    "customer": " Customer 448 ",
+    "category": "Furniture",
+    "amount": "4480",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 449,
+    "customer": " Customer 449 ",
+    "category": "Electronics",
+    "amount": "4490",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 450,
+    "customer": " Customer 450 ",
+    "category": "Clothing",
+    "amount": "4500",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 451,
+    "customer": " Customer 451 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 452,
+    "customer": " Customer 452 ",
+    "category": "Furniture",
+    "amount": "4520",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 453,
+    "customer": " Customer 453 ",
+    "category": "Electronics",
+    "amount": "4530",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 454,
+    "customer": " Customer 454 ",
+    "category": "Clothing",
+    "amount": "4540",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 455,
+    "customer": " Customer 455 ",
+    "category": "Food",
+    "amount": "4550",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 456,
+    "customer": " Customer 456 ",
+    "category": "Furniture",
+    "amount": "4560",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 457,
+    "customer": " Customer 457 ",
+    "category": "Electronics",
+    "amount": "4570",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 458,
+    "customer": " Customer 458 ",
+    "category": "Clothing",
+    "amount": "4580",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 459,
+    "customer": " Customer 459 ",
+    "category": "Food",
+    "amount": "4590",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 460,
+    "customer": " Customer 460 ",
+    "category": "Furniture",
+    "amount": "4600",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 461,
+    "customer": " Customer 461 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 462,
+    "customer": " Customer 462 ",
+    "category": "Clothing",
+    "amount": "4620",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 463,
+    "customer": " Customer 463 ",
+    "category": "Food",
+    "amount": "4630",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 464,
+    "customer": " Customer 464 ",
+    "category": "Furniture",
+    "amount": "4640",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 465,
+    "customer": " Customer 465 ",
+    "category": "Electronics",
+    "amount": "4650",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 466,
+    "customer": " Customer 466 ",
+    "category": "Clothing",
+    "amount": "4660",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 467,
+    "customer": " Customer 467 ",
+    "category": "Food",
+    "amount": "4670",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 468,
+    "customer": " Customer 468 ",
+    "category": "Furniture",
+    "amount": "4680",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 469,
+    "customer": " Customer 469 ",
+    "category": "Electronics",
+    "amount": "4690",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 470,
+    "customer": " Customer 470 ",
+    "category": "Clothing",
+    "amount": "4700",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 471,
+    "customer": " Customer 471 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 472,
+    "customer": " Customer 472 ",
+    "category": "Furniture",
+    "amount": "4720",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 473,
+    "customer": " Customer 473 ",
+    "category": "Electronics",
+    "amount": "4730",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 474,
+    "customer": " Customer 474 ",
+    "category": "Clothing",
+    "amount": "4740",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 475,
+    "customer": " Customer 475 ",
+    "category": "Food",
+    "amount": "4750",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 476,
+    "customer": " Customer 476 ",
+    "category": "Furniture",
+    "amount": "4760",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 477,
+    "customer": " Customer 477 ",
+    "category": "Electronics",
+    "amount": "4770",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 478,
+    "customer": " Customer 478 ",
+    "category": "Clothing",
+    "amount": "4780",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 479,
+    "customer": " Customer 479 ",
+    "category": "Food",
+    "amount": "4790",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 480,
+    "customer": " Customer 480 ",
+    "category": "Furniture",
+    "amount": "4800",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 481,
+    "customer": " Customer 481 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 482,
+    "customer": " Customer 482 ",
+    "category": "Clothing",
+    "amount": "4820",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 483,
+    "customer": " Customer 483 ",
+    "category": "Food",
+    "amount": "4830",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 484,
+    "customer": " Customer 484 ",
+    "category": "Furniture",
+    "amount": "4840",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 485,
+    "customer": " Customer 485 ",
+    "category": "Electronics",
+    "amount": "4850",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 486,
+    "customer": " Customer 486 ",
+    "category": "Clothing",
+    "amount": "4860",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 487,
+    "customer": " Customer 487 ",
+    "category": "Food",
+    "amount": "4870",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 488,
+    "customer": " Customer 488 ",
+    "category": "Furniture",
+    "amount": "4880",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 489,
+    "customer": " Customer 489 ",
+    "category": "Electronics",
+    "amount": "4890",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 490,
+    "customer": " Customer 490 ",
+    "category": "Clothing",
+    "amount": "4900",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 491,
+    "customer": " Customer 491 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 492,
+    "customer": " Customer 492 ",
+    "category": "Furniture",
+    "amount": "4920",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 493,
+    "customer": " Customer 493 ",
+    "category": "Electronics",
+    "amount": "4930",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 494,
+    "customer": " Customer 494 ",
+    "category": "Clothing",
+    "amount": "4940",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 495,
+    "customer": " Customer 495 ",
+    "category": "Food",
+    "amount": "4950",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 496,
+    "customer": " Customer 496 ",
+    "category": "Furniture",
+    "amount": "4960",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 497,
+    "customer": " Customer 497 ",
+    "category": "Electronics",
+    "amount": "4970",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 498,
+    "customer": " Customer 498 ",
+    "category": "Clothing",
+    "amount": "4980",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 499,
+    "customer": " Customer 499 ",
+    "category": "Food",
+    "amount": "4990",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 500,
+    "customer": " Customer 500 ",
+    "category": "Furniture",
+    "amount": "5000",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 501,
+    "customer": " Customer 501 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 502,
+    "customer": " Customer 502 ",
+    "category": "Clothing",
+    "amount": "5020",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 503,
+    "customer": " Customer 503 ",
+    "category": "Food",
+    "amount": "5030",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 504,
+    "customer": " Customer 504 ",
+    "category": "Furniture",
+    "amount": "5040",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 505,
+    "customer": " Customer 505 ",
+    "category": "Electronics",
+    "amount": "5050",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 506,
+    "customer": " Customer 506 ",
+    "category": "Clothing",
+    "amount": "5060",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 507,
+    "customer": " Customer 507 ",
+    "category": "Food",
+    "amount": "5070",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 508,
+    "customer": " Customer 508 ",
+    "category": "Furniture",
+    "amount": "5080",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 509,
+    "customer": " Customer 509 ",
+    "category": "Electronics",
+    "amount": "5090",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 510,
+    "customer": " Customer 510 ",
+    "category": "Clothing",
+    "amount": "5100",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 511,
+    "customer": " Customer 511 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 512,
+    "customer": " Customer 512 ",
+    "category": "Furniture",
+    "amount": "5120",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 513,
+    "customer": " Customer 513 ",
+    "category": "Electronics",
+    "amount": "5130",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 514,
+    "customer": " Customer 514 ",
+    "category": "Clothing",
+    "amount": "5140",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 515,
+    "customer": " Customer 515 ",
+    "category": "Food",
+    "amount": "5150",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 516,
+    "customer": " Customer 516 ",
+    "category": "Furniture",
+    "amount": "5160",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 517,
+    "customer": " Customer 517 ",
+    "category": "Electronics",
+    "amount": "5170",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 518,
+    "customer": " Customer 518 ",
+    "category": "Clothing",
+    "amount": "5180",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 519,
+    "customer": " Customer 519 ",
+    "category": "Food",
+    "amount": "5190",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 520,
+    "customer": " Customer 520 ",
+    "category": "Furniture",
+    "amount": "5200",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 521,
+    "customer": " Customer 521 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 522,
+    "customer": " Customer 522 ",
+    "category": "Clothing",
+    "amount": "5220",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 523,
+    "customer": " Customer 523 ",
+    "category": "Food",
+    "amount": "5230",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 524,
+    "customer": " Customer 524 ",
+    "category": "Furniture",
+    "amount": "5240",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 525,
+    "customer": " Customer 525 ",
+    "category": "Electronics",
+    "amount": "5250",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 526,
+    "customer": " Customer 526 ",
+    "category": "Clothing",
+    "amount": "5260",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 527,
+    "customer": " Customer 527 ",
+    "category": "Food",
+    "amount": "5270",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 528,
+    "customer": " Customer 528 ",
+    "category": "Furniture",
+    "amount": "5280",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 529,
+    "customer": " Customer 529 ",
+    "category": "Electronics",
+    "amount": "5290",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 530,
+    "customer": " Customer 530 ",
+    "category": "Clothing",
+    "amount": "5300",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 531,
+    "customer": " Customer 531 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 532,
+    "customer": " Customer 532 ",
+    "category": "Furniture",
+    "amount": "5320",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 533,
+    "customer": " Customer 533 ",
+    "category": "Electronics",
+    "amount": "5330",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 534,
+    "customer": " Customer 534 ",
+    "category": "Clothing",
+    "amount": "5340",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 535,
+    "customer": " Customer 535 ",
+    "category": "Food",
+    "amount": "5350",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 536,
+    "customer": " Customer 536 ",
+    "category": "Furniture",
+    "amount": "5360",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 537,
+    "customer": " Customer 537 ",
+    "category": "Electronics",
+    "amount": "5370",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 538,
+    "customer": " Customer 538 ",
+    "category": "Clothing",
+    "amount": "5380",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 539,
+    "customer": " Customer 539 ",
+    "category": "Food",
+    "amount": "5390",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 540,
+    "customer": " Customer 540 ",
+    "category": "Furniture",
+    "amount": "5400",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 541,
+    "customer": " Customer 541 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 542,
+    "customer": " Customer 542 ",
+    "category": "Clothing",
+    "amount": "5420",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 543,
+    "customer": " Customer 543 ",
+    "category": "Food",
+    "amount": "5430",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 544,
+    "customer": " Customer 544 ",
+    "category": "Furniture",
+    "amount": "5440",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 545,
+    "customer": " Customer 545 ",
+    "category": "Electronics",
+    "amount": "5450",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 546,
+    "customer": " Customer 546 ",
+    "category": "Clothing",
+    "amount": "5460",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 547,
+    "customer": " Customer 547 ",
+    "category": "Food",
+    "amount": "5470",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 548,
+    "customer": " Customer 548 ",
+    "category": "Furniture",
+    "amount": "5480",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 549,
+    "customer": " Customer 549 ",
+    "category": "Electronics",
+    "amount": "5490",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 550,
+    "customer": " Customer 550 ",
+    "category": "Clothing",
+    "amount": "5500",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 551,
+    "customer": " Customer 551 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 552,
+    "customer": " Customer 552 ",
+    "category": "Furniture",
+    "amount": "5520",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 553,
+    "customer": " Customer 553 ",
+    "category": "Electronics",
+    "amount": "5530",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 554,
+    "customer": " Customer 554 ",
+    "category": "Clothing",
+    "amount": "5540",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 555,
+    "customer": " Customer 555 ",
+    "category": "Food",
+    "amount": "5550",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 556,
+    "customer": " Customer 556 ",
+    "category": "Furniture",
+    "amount": "5560",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 557,
+    "customer": " Customer 557 ",
+    "category": "Electronics",
+    "amount": "5570",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 558,
+    "customer": " Customer 558 ",
+    "category": "Clothing",
+    "amount": "5580",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 559,
+    "customer": " Customer 559 ",
+    "category": "Food",
+    "amount": "5590",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 560,
+    "customer": " Customer 560 ",
+    "category": "Furniture",
+    "amount": "5600",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 561,
+    "customer": " Customer 561 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 562,
+    "customer": " Customer 562 ",
+    "category": "Clothing",
+    "amount": "5620",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 563,
+    "customer": " Customer 563 ",
+    "category": "Food",
+    "amount": "5630",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 564,
+    "customer": " Customer 564 ",
+    "category": "Furniture",
+    "amount": "5640",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 565,
+    "customer": " Customer 565 ",
+    "category": "Electronics",
+    "amount": "5650",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 566,
+    "customer": " Customer 566 ",
+    "category": "Clothing",
+    "amount": "5660",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 567,
+    "customer": " Customer 567 ",
+    "category": "Food",
+    "amount": "5670",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 568,
+    "customer": " Customer 568 ",
+    "category": "Furniture",
+    "amount": "5680",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 569,
+    "customer": " Customer 569 ",
+    "category": "Electronics",
+    "amount": "5690",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 570,
+    "customer": " Customer 570 ",
+    "category": "Clothing",
+    "amount": "5700",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 571,
+    "customer": " Customer 571 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 572,
+    "customer": " Customer 572 ",
+    "category": "Furniture",
+    "amount": "5720",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 573,
+    "customer": " Customer 573 ",
+    "category": "Electronics",
+    "amount": "5730",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 574,
+    "customer": " Customer 574 ",
+    "category": "Clothing",
+    "amount": "5740",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 575,
+    "customer": " Customer 575 ",
+    "category": "Food",
+    "amount": "5750",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 576,
+    "customer": " Customer 576 ",
+    "category": "Furniture",
+    "amount": "5760",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 577,
+    "customer": " Customer 577 ",
+    "category": "Electronics",
+    "amount": "5770",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 578,
+    "customer": " Customer 578 ",
+    "category": "Clothing",
+    "amount": "5780",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 579,
+    "customer": " Customer 579 ",
+    "category": "Food",
+    "amount": "5790",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 580,
+    "customer": " Customer 580 ",
+    "category": "Furniture",
+    "amount": "5800",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 581,
+    "customer": " Customer 581 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 582,
+    "customer": " Customer 582 ",
+    "category": "Clothing",
+    "amount": "5820",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 583,
+    "customer": " Customer 583 ",
+    "category": "Food",
+    "amount": "5830",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 584,
+    "customer": " Customer 584 ",
+    "category": "Furniture",
+    "amount": "5840",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 585,
+    "customer": " Customer 585 ",
+    "category": "Electronics",
+    "amount": "5850",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 586,
+    "customer": " Customer 586 ",
+    "category": "Clothing",
+    "amount": "5860",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 587,
+    "customer": " Customer 587 ",
+    "category": "Food",
+    "amount": "5870",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 588,
+    "customer": " Customer 588 ",
+    "category": "Furniture",
+    "amount": "5880",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 589,
+    "customer": " Customer 589 ",
+    "category": "Electronics",
+    "amount": "5890",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 590,
+    "customer": " Customer 590 ",
+    "category": "Clothing",
+    "amount": "5900",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 591,
+    "customer": " Customer 591 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 592,
+    "customer": " Customer 592 ",
+    "category": "Furniture",
+    "amount": "5920",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 593,
+    "customer": " Customer 593 ",
+    "category": "Electronics",
+    "amount": "5930",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 594,
+    "customer": " Customer 594 ",
+    "category": "Clothing",
+    "amount": "5940",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 595,
+    "customer": " Customer 595 ",
+    "category": "Food",
+    "amount": "5950",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 596,
+    "customer": " Customer 596 ",
+    "category": "Furniture",
+    "amount": "5960",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 597,
+    "customer": " Customer 597 ",
+    "category": "Electronics",
+    "amount": "5970",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 598,
+    "customer": " Customer 598 ",
+    "category": "Clothing",
+    "amount": "5980",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 599,
+    "customer": " Customer 599 ",
+    "category": "Food",
+    "amount": "5990",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 600,
+    "customer": " Customer 600 ",
+    "category": "Furniture",
+    "amount": "6000",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 601,
+    "customer": " Customer 601 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 602,
+    "customer": " Customer 602 ",
+    "category": "Clothing",
+    "amount": "6020",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 603,
+    "customer": " Customer 603 ",
+    "category": "Food",
+    "amount": "6030",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 604,
+    "customer": " Customer 604 ",
+    "category": "Furniture",
+    "amount": "6040",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 605,
+    "customer": " Customer 605 ",
+    "category": "Electronics",
+    "amount": "6050",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 606,
+    "customer": " Customer 606 ",
+    "category": "Clothing",
+    "amount": "6060",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 607,
+    "customer": " Customer 607 ",
+    "category": "Food",
+    "amount": "6070",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 608,
+    "customer": " Customer 608 ",
+    "category": "Furniture",
+    "amount": "6080",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 609,
+    "customer": " Customer 609 ",
+    "category": "Electronics",
+    "amount": "6090",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 610,
+    "customer": " Customer 610 ",
+    "category": "Clothing",
+    "amount": "6100",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 611,
+    "customer": " Customer 611 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 612,
+    "customer": " Customer 612 ",
+    "category": "Furniture",
+    "amount": "6120",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 613,
+    "customer": " Customer 613 ",
+    "category": "Electronics",
+    "amount": "6130",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 614,
+    "customer": " Customer 614 ",
+    "category": "Clothing",
+    "amount": "6140",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 615,
+    "customer": " Customer 615 ",
+    "category": "Food",
+    "amount": "6150",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 616,
+    "customer": " Customer 616 ",
+    "category": "Furniture",
+    "amount": "6160",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 617,
+    "customer": " Customer 617 ",
+    "category": "Electronics",
+    "amount": "6170",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 618,
+    "customer": " Customer 618 ",
+    "category": "Clothing",
+    "amount": "6180",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 619,
+    "customer": " Customer 619 ",
+    "category": "Food",
+    "amount": "6190",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 620,
+    "customer": " Customer 620 ",
+    "category": "Furniture",
+    "amount": "6200",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 621,
+    "customer": " Customer 621 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 622,
+    "customer": " Customer 622 ",
+    "category": "Clothing",
+    "amount": "6220",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 623,
+    "customer": " Customer 623 ",
+    "category": "Food",
+    "amount": "6230",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 624,
+    "customer": " Customer 624 ",
+    "category": "Furniture",
+    "amount": "6240",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 625,
+    "customer": " Customer 625 ",
+    "category": "Electronics",
+    "amount": "6250",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 626,
+    "customer": " Customer 626 ",
+    "category": "Clothing",
+    "amount": "6260",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 627,
+    "customer": " Customer 627 ",
+    "category": "Food",
+    "amount": "6270",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 628,
+    "customer": " Customer 628 ",
+    "category": "Furniture",
+    "amount": "6280",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 629,
+    "customer": " Customer 629 ",
+    "category": "Electronics",
+    "amount": "6290",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 630,
+    "customer": " Customer 630 ",
+    "category": "Clothing",
+    "amount": "6300",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 631,
+    "customer": " Customer 631 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 632,
+    "customer": " Customer 632 ",
+    "category": "Furniture",
+    "amount": "6320",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 633,
+    "customer": " Customer 633 ",
+    "category": "Electronics",
+    "amount": "6330",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 634,
+    "customer": " Customer 634 ",
+    "category": "Clothing",
+    "amount": "6340",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 635,
+    "customer": " Customer 635 ",
+    "category": "Food",
+    "amount": "6350",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 636,
+    "customer": " Customer 636 ",
+    "category": "Furniture",
+    "amount": "6360",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 637,
+    "customer": " Customer 637 ",
+    "category": "Electronics",
+    "amount": "6370",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 638,
+    "customer": " Customer 638 ",
+    "category": "Clothing",
+    "amount": "6380",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 639,
+    "customer": " Customer 639 ",
+    "category": "Food",
+    "amount": "6390",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 640,
+    "customer": " Customer 640 ",
+    "category": "Furniture",
+    "amount": "6400",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 641,
+    "customer": " Customer 641 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 642,
+    "customer": " Customer 642 ",
+    "category": "Clothing",
+    "amount": "6420",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 643,
+    "customer": " Customer 643 ",
+    "category": "Food",
+    "amount": "6430",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 644,
+    "customer": " Customer 644 ",
+    "category": "Furniture",
+    "amount": "6440",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 645,
+    "customer": " Customer 645 ",
+    "category": "Electronics",
+    "amount": "6450",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 646,
+    "customer": " Customer 646 ",
+    "category": "Clothing",
+    "amount": "6460",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 647,
+    "customer": " Customer 647 ",
+    "category": "Food",
+    "amount": "6470",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 648,
+    "customer": " Customer 648 ",
+    "category": "Furniture",
+    "amount": "6480",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 649,
+    "customer": " Customer 649 ",
+    "category": "Electronics",
+    "amount": "6490",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 650,
+    "customer": " Customer 650 ",
+    "category": "Clothing",
+    "amount": "6500",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 651,
+    "customer": " Customer 651 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 652,
+    "customer": " Customer 652 ",
+    "category": "Furniture",
+    "amount": "6520",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 653,
+    "customer": " Customer 653 ",
+    "category": "Electronics",
+    "amount": "6530",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 654,
+    "customer": " Customer 654 ",
+    "category": "Clothing",
+    "amount": "6540",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 655,
+    "customer": " Customer 655 ",
+    "category": "Food",
+    "amount": "6550",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 656,
+    "customer": " Customer 656 ",
+    "category": "Furniture",
+    "amount": "6560",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 657,
+    "customer": " Customer 657 ",
+    "category": "Electronics",
+    "amount": "6570",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 658,
+    "customer": " Customer 658 ",
+    "category": "Clothing",
+    "amount": "6580",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 659,
+    "customer": " Customer 659 ",
+    "category": "Food",
+    "amount": "6590",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 660,
+    "customer": " Customer 660 ",
+    "category": "Furniture",
+    "amount": "6600",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 661,
+    "customer": " Customer 661 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 662,
+    "customer": " Customer 662 ",
+    "category": "Clothing",
+    "amount": "6620",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 663,
+    "customer": " Customer 663 ",
+    "category": "Food",
+    "amount": "6630",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 664,
+    "customer": " Customer 664 ",
+    "category": "Furniture",
+    "amount": "6640",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 665,
+    "customer": " Customer 665 ",
+    "category": "Electronics",
+    "amount": "6650",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 666,
+    "customer": " Customer 666 ",
+    "category": "Clothing",
+    "amount": "6660",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 667,
+    "customer": " Customer 667 ",
+    "category": "Food",
+    "amount": "6670",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 668,
+    "customer": " Customer 668 ",
+    "category": "Furniture",
+    "amount": "6680",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 669,
+    "customer": " Customer 669 ",
+    "category": "Electronics",
+    "amount": "6690",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 670,
+    "customer": " Customer 670 ",
+    "category": "Clothing",
+    "amount": "6700",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 671,
+    "customer": " Customer 671 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 672,
+    "customer": " Customer 672 ",
+    "category": "Furniture",
+    "amount": "6720",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 673,
+    "customer": " Customer 673 ",
+    "category": "Electronics",
+    "amount": "6730",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 674,
+    "customer": " Customer 674 ",
+    "category": "Clothing",
+    "amount": "6740",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 675,
+    "customer": " Customer 675 ",
+    "category": "Food",
+    "amount": "6750",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 676,
+    "customer": " Customer 676 ",
+    "category": "Furniture",
+    "amount": "6760",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 677,
+    "customer": " Customer 677 ",
+    "category": "Electronics",
+    "amount": "6770",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 678,
+    "customer": " Customer 678 ",
+    "category": "Clothing",
+    "amount": "6780",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 679,
+    "customer": " Customer 679 ",
+    "category": "Food",
+    "amount": "6790",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 680,
+    "customer": " Customer 680 ",
+    "category": "Furniture",
+    "amount": "6800",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 681,
+    "customer": " Customer 681 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 682,
+    "customer": " Customer 682 ",
+    "category": "Clothing",
+    "amount": "6820",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 683,
+    "customer": " Customer 683 ",
+    "category": "Food",
+    "amount": "6830",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 684,
+    "customer": " Customer 684 ",
+    "category": "Furniture",
+    "amount": "6840",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 685,
+    "customer": " Customer 685 ",
+    "category": "Electronics",
+    "amount": "6850",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 686,
+    "customer": " Customer 686 ",
+    "category": "Clothing",
+    "amount": "6860",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 687,
+    "customer": " Customer 687 ",
+    "category": "Food",
+    "amount": "6870",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 688,
+    "customer": " Customer 688 ",
+    "category": "Furniture",
+    "amount": "6880",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 689,
+    "customer": " Customer 689 ",
+    "category": "Electronics",
+    "amount": "6890",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 690,
+    "customer": " Customer 690 ",
+    "category": "Clothing",
+    "amount": "6900",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 691,
+    "customer": " Customer 691 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 692,
+    "customer": " Customer 692 ",
+    "category": "Furniture",
+    "amount": "6920",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 693,
+    "customer": " Customer 693 ",
+    "category": "Electronics",
+    "amount": "6930",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 694,
+    "customer": " Customer 694 ",
+    "category": "Clothing",
+    "amount": "6940",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 695,
+    "customer": " Customer 695 ",
+    "category": "Food",
+    "amount": "6950",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 696,
+    "customer": " Customer 696 ",
+    "category": "Furniture",
+    "amount": "6960",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 697,
+    "customer": " Customer 697 ",
+    "category": "Electronics",
+    "amount": "6970",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 698,
+    "customer": " Customer 698 ",
+    "category": "Clothing",
+    "amount": "6980",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 699,
+    "customer": " Customer 699 ",
+    "category": "Food",
+    "amount": "6990",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 700,
+    "customer": " Customer 700 ",
+    "category": "Furniture",
+    "amount": "7000",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 701,
+    "customer": " Customer 701 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 702,
+    "customer": " Customer 702 ",
+    "category": "Clothing",
+    "amount": "7020",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 703,
+    "customer": " Customer 703 ",
+    "category": "Food",
+    "amount": "7030",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 704,
+    "customer": " Customer 704 ",
+    "category": "Furniture",
+    "amount": "7040",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 705,
+    "customer": " Customer 705 ",
+    "category": "Electronics",
+    "amount": "7050",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 706,
+    "customer": " Customer 706 ",
+    "category": "Clothing",
+    "amount": "7060",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 707,
+    "customer": " Customer 707 ",
+    "category": "Food",
+    "amount": "7070",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 708,
+    "customer": " Customer 708 ",
+    "category": "Furniture",
+    "amount": "7080",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 709,
+    "customer": " Customer 709 ",
+    "category": "Electronics",
+    "amount": "7090",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 710,
+    "customer": " Customer 710 ",
+    "category": "Clothing",
+    "amount": "7100",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 711,
+    "customer": " Customer 711 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 712,
+    "customer": " Customer 712 ",
+    "category": "Furniture",
+    "amount": "7120",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 713,
+    "customer": " Customer 713 ",
+    "category": "Electronics",
+    "amount": "7130",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 714,
+    "customer": " Customer 714 ",
+    "category": "Clothing",
+    "amount": "7140",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 715,
+    "customer": " Customer 715 ",
+    "category": "Food",
+    "amount": "7150",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 716,
+    "customer": " Customer 716 ",
+    "category": "Furniture",
+    "amount": "7160",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 717,
+    "customer": " Customer 717 ",
+    "category": "Electronics",
+    "amount": "7170",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 718,
+    "customer": " Customer 718 ",
+    "category": "Clothing",
+    "amount": "7180",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 719,
+    "customer": " Customer 719 ",
+    "category": "Food",
+    "amount": "7190",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 720,
+    "customer": " Customer 720 ",
+    "category": "Furniture",
+    "amount": "7200",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 721,
+    "customer": " Customer 721 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 722,
+    "customer": " Customer 722 ",
+    "category": "Clothing",
+    "amount": "7220",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 723,
+    "customer": " Customer 723 ",
+    "category": "Food",
+    "amount": "7230",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 724,
+    "customer": " Customer 724 ",
+    "category": "Furniture",
+    "amount": "7240",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 725,
+    "customer": " Customer 725 ",
+    "category": "Electronics",
+    "amount": "7250",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 726,
+    "customer": " Customer 726 ",
+    "category": "Clothing",
+    "amount": "7260",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 727,
+    "customer": " Customer 727 ",
+    "category": "Food",
+    "amount": "7270",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 728,
+    "customer": " Customer 728 ",
+    "category": "Furniture",
+    "amount": "7280",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 729,
+    "customer": " Customer 729 ",
+    "category": "Electronics",
+    "amount": "7290",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 730,
+    "customer": " Customer 730 ",
+    "category": "Clothing",
+    "amount": "7300",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 731,
+    "customer": " Customer 731 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 732,
+    "customer": " Customer 732 ",
+    "category": "Furniture",
+    "amount": "7320",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 733,
+    "customer": " Customer 733 ",
+    "category": "Electronics",
+    "amount": "7330",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 734,
+    "customer": " Customer 734 ",
+    "category": "Clothing",
+    "amount": "7340",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 735,
+    "customer": " Customer 735 ",
+    "category": "Food",
+    "amount": "7350",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 736,
+    "customer": " Customer 736 ",
+    "category": "Furniture",
+    "amount": "7360",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 737,
+    "customer": " Customer 737 ",
+    "category": "Electronics",
+    "amount": "7370",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 738,
+    "customer": " Customer 738 ",
+    "category": "Clothing",
+    "amount": "7380",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 739,
+    "customer": " Customer 739 ",
+    "category": "Food",
+    "amount": "7390",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 740,
+    "customer": " Customer 740 ",
+    "category": "Furniture",
+    "amount": "7400",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 741,
+    "customer": " Customer 741 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 742,
+    "customer": " Customer 742 ",
+    "category": "Clothing",
+    "amount": "7420",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 743,
+    "customer": " Customer 743 ",
+    "category": "Food",
+    "amount": "7430",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 744,
+    "customer": " Customer 744 ",
+    "category": "Furniture",
+    "amount": "7440",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 745,
+    "customer": " Customer 745 ",
+    "category": "Electronics",
+    "amount": "7450",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 746,
+    "customer": " Customer 746 ",
+    "category": "Clothing",
+    "amount": "7460",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 747,
+    "customer": " Customer 747 ",
+    "category": "Food",
+    "amount": "7470",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 748,
+    "customer": " Customer 748 ",
+    "category": "Furniture",
+    "amount": "7480",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 749,
+    "customer": " Customer 749 ",
+    "category": "Electronics",
+    "amount": "7490",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 750,
+    "customer": " Customer 750 ",
+    "category": "Clothing",
+    "amount": "7500",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 751,
+    "customer": " Customer 751 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 752,
+    "customer": " Customer 752 ",
+    "category": "Furniture",
+    "amount": "7520",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 753,
+    "customer": " Customer 753 ",
+    "category": "Electronics",
+    "amount": "7530",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 754,
+    "customer": " Customer 754 ",
+    "category": "Clothing",
+    "amount": "7540",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 755,
+    "customer": " Customer 755 ",
+    "category": "Food",
+    "amount": "7550",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 756,
+    "customer": " Customer 756 ",
+    "category": "Furniture",
+    "amount": "7560",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 757,
+    "customer": " Customer 757 ",
+    "category": "Electronics",
+    "amount": "7570",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 758,
+    "customer": " Customer 758 ",
+    "category": "Clothing",
+    "amount": "7580",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 759,
+    "customer": " Customer 759 ",
+    "category": "Food",
+    "amount": "7590",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 760,
+    "customer": " Customer 760 ",
+    "category": "Furniture",
+    "amount": "7600",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 761,
+    "customer": " Customer 761 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 762,
+    "customer": " Customer 762 ",
+    "category": "Clothing",
+    "amount": "7620",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 763,
+    "customer": " Customer 763 ",
+    "category": "Food",
+    "amount": "7630",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 764,
+    "customer": " Customer 764 ",
+    "category": "Furniture",
+    "amount": "7640",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 765,
+    "customer": " Customer 765 ",
+    "category": "Electronics",
+    "amount": "7650",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 766,
+    "customer": " Customer 766 ",
+    "category": "Clothing",
+    "amount": "7660",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 767,
+    "customer": " Customer 767 ",
+    "category": "Food",
+    "amount": "7670",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 768,
+    "customer": " Customer 768 ",
+    "category": "Furniture",
+    "amount": "7680",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 769,
+    "customer": " Customer 769 ",
+    "category": "Electronics",
+    "amount": "7690",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 770,
+    "customer": " Customer 770 ",
+    "category": "Clothing",
+    "amount": "7700",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 771,
+    "customer": " Customer 771 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 772,
+    "customer": " Customer 772 ",
+    "category": "Furniture",
+    "amount": "7720",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 773,
+    "customer": " Customer 773 ",
+    "category": "Electronics",
+    "amount": "7730",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 774,
+    "customer": " Customer 774 ",
+    "category": "Clothing",
+    "amount": "7740",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 775,
+    "customer": " Customer 775 ",
+    "category": "Food",
+    "amount": "7750",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 776,
+    "customer": " Customer 776 ",
+    "category": "Furniture",
+    "amount": "7760",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 777,
+    "customer": " Customer 777 ",
+    "category": "Electronics",
+    "amount": "7770",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 778,
+    "customer": " Customer 778 ",
+    "category": "Clothing",
+    "amount": "7780",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 779,
+    "customer": " Customer 779 ",
+    "category": "Food",
+    "amount": "7790",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 780,
+    "customer": " Customer 780 ",
+    "category": "Furniture",
+    "amount": "7800",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 781,
+    "customer": " Customer 781 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 782,
+    "customer": " Customer 782 ",
+    "category": "Clothing",
+    "amount": "7820",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 783,
+    "customer": " Customer 783 ",
+    "category": "Food",
+    "amount": "7830",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 784,
+    "customer": " Customer 784 ",
+    "category": "Furniture",
+    "amount": "7840",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 785,
+    "customer": " Customer 785 ",
+    "category": "Electronics",
+    "amount": "7850",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 786,
+    "customer": " Customer 786 ",
+    "category": "Clothing",
+    "amount": "7860",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 787,
+    "customer": " Customer 787 ",
+    "category": "Food",
+    "amount": "7870",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 788,
+    "customer": " Customer 788 ",
+    "category": "Furniture",
+    "amount": "7880",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 789,
+    "customer": " Customer 789 ",
+    "category": "Electronics",
+    "amount": "7890",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 790,
+    "customer": " Customer 790 ",
+    "category": "Clothing",
+    "amount": "7900",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 791,
+    "customer": " Customer 791 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 792,
+    "customer": " Customer 792 ",
+    "category": "Furniture",
+    "amount": "7920",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 793,
+    "customer": " Customer 793 ",
+    "category": "Electronics",
+    "amount": "7930",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 794,
+    "customer": " Customer 794 ",
+    "category": "Clothing",
+    "amount": "7940",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 795,
+    "customer": " Customer 795 ",
+    "category": "Food",
+    "amount": "7950",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 796,
+    "customer": " Customer 796 ",
+    "category": "Furniture",
+    "amount": "7960",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 797,
+    "customer": " Customer 797 ",
+    "category": "Electronics",
+    "amount": "7970",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 798,
+    "customer": " Customer 798 ",
+    "category": "Clothing",
+    "amount": "7980",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 799,
+    "customer": " Customer 799 ",
+    "category": "Food",
+    "amount": "7990",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 800,
+    "customer": " Customer 800 ",
+    "category": "Furniture",
+    "amount": "8000",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 801,
+    "customer": " Customer 801 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 802,
+    "customer": " Customer 802 ",
+    "category": "Clothing",
+    "amount": "8020",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 803,
+    "customer": " Customer 803 ",
+    "category": "Food",
+    "amount": "8030",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 804,
+    "customer": " Customer 804 ",
+    "category": "Furniture",
+    "amount": "8040",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 805,
+    "customer": " Customer 805 ",
+    "category": "Electronics",
+    "amount": "8050",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 806,
+    "customer": " Customer 806 ",
+    "category": "Clothing",
+    "amount": "8060",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 807,
+    "customer": " Customer 807 ",
+    "category": "Food",
+    "amount": "8070",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 808,
+    "customer": " Customer 808 ",
+    "category": "Furniture",
+    "amount": "8080",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 809,
+    "customer": " Customer 809 ",
+    "category": "Electronics",
+    "amount": "8090",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 810,
+    "customer": " Customer 810 ",
+    "category": "Clothing",
+    "amount": "8100",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 811,
+    "customer": " Customer 811 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 812,
+    "customer": " Customer 812 ",
+    "category": "Furniture",
+    "amount": "8120",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 813,
+    "customer": " Customer 813 ",
+    "category": "Electronics",
+    "amount": "8130",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 814,
+    "customer": " Customer 814 ",
+    "category": "Clothing",
+    "amount": "8140",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 815,
+    "customer": " Customer 815 ",
+    "category": "Food",
+    "amount": "8150",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 816,
+    "customer": " Customer 816 ",
+    "category": "Furniture",
+    "amount": "8160",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 817,
+    "customer": " Customer 817 ",
+    "category": "Electronics",
+    "amount": "8170",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 818,
+    "customer": " Customer 818 ",
+    "category": "Clothing",
+    "amount": "8180",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 819,
+    "customer": " Customer 819 ",
+    "category": "Food",
+    "amount": "8190",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 820,
+    "customer": " Customer 820 ",
+    "category": "Furniture",
+    "amount": "8200",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 821,
+    "customer": " Customer 821 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 822,
+    "customer": " Customer 822 ",
+    "category": "Clothing",
+    "amount": "8220",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 823,
+    "customer": " Customer 823 ",
+    "category": "Food",
+    "amount": "8230",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 824,
+    "customer": " Customer 824 ",
+    "category": "Furniture",
+    "amount": "8240",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 825,
+    "customer": " Customer 825 ",
+    "category": "Electronics",
+    "amount": "8250",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 826,
+    "customer": " Customer 826 ",
+    "category": "Clothing",
+    "amount": "8260",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 827,
+    "customer": " Customer 827 ",
+    "category": "Food",
+    "amount": "8270",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 828,
+    "customer": " Customer 828 ",
+    "category": "Furniture",
+    "amount": "8280",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 829,
+    "customer": " Customer 829 ",
+    "category": "Electronics",
+    "amount": "8290",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 830,
+    "customer": " Customer 830 ",
+    "category": "Clothing",
+    "amount": "8300",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 831,
+    "customer": " Customer 831 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 832,
+    "customer": " Customer 832 ",
+    "category": "Furniture",
+    "amount": "8320",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 833,
+    "customer": " Customer 833 ",
+    "category": "Electronics",
+    "amount": "8330",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 834,
+    "customer": " Customer 834 ",
+    "category": "Clothing",
+    "amount": "8340",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 835,
+    "customer": " Customer 835 ",
+    "category": "Food",
+    "amount": "8350",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 836,
+    "customer": " Customer 836 ",
+    "category": "Furniture",
+    "amount": "8360",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 837,
+    "customer": " Customer 837 ",
+    "category": "Electronics",
+    "amount": "8370",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 838,
+    "customer": " Customer 838 ",
+    "category": "Clothing",
+    "amount": "8380",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 839,
+    "customer": " Customer 839 ",
+    "category": "Food",
+    "amount": "8390",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 840,
+    "customer": " Customer 840 ",
+    "category": "Furniture",
+    "amount": "8400",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 841,
+    "customer": " Customer 841 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 842,
+    "customer": " Customer 842 ",
+    "category": "Clothing",
+    "amount": "8420",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 843,
+    "customer": " Customer 843 ",
+    "category": "Food",
+    "amount": "8430",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 844,
+    "customer": " Customer 844 ",
+    "category": "Furniture",
+    "amount": "8440",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 845,
+    "customer": " Customer 845 ",
+    "category": "Electronics",
+    "amount": "8450",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 846,
+    "customer": " Customer 846 ",
+    "category": "Clothing",
+    "amount": "8460",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 847,
+    "customer": " Customer 847 ",
+    "category": "Food",
+    "amount": "8470",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 848,
+    "customer": " Customer 848 ",
+    "category": "Furniture",
+    "amount": "8480",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 849,
+    "customer": " Customer 849 ",
+    "category": "Electronics",
+    "amount": "8490",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 850,
+    "customer": " Customer 850 ",
+    "category": "Clothing",
+    "amount": "8500",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 851,
+    "customer": " Customer 851 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 852,
+    "customer": " Customer 852 ",
+    "category": "Furniture",
+    "amount": "8520",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 853,
+    "customer": " Customer 853 ",
+    "category": "Electronics",
+    "amount": "8530",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 854,
+    "customer": " Customer 854 ",
+    "category": "Clothing",
+    "amount": "8540",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 855,
+    "customer": " Customer 855 ",
+    "category": "Food",
+    "amount": "8550",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 856,
+    "customer": " Customer 856 ",
+    "category": "Furniture",
+    "amount": "8560",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 857,
+    "customer": " Customer 857 ",
+    "category": "Electronics",
+    "amount": "8570",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 858,
+    "customer": " Customer 858 ",
+    "category": "Clothing",
+    "amount": "8580",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 859,
+    "customer": " Customer 859 ",
+    "category": "Food",
+    "amount": "8590",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 860,
+    "customer": " Customer 860 ",
+    "category": "Furniture",
+    "amount": "8600",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 861,
+    "customer": " Customer 861 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 862,
+    "customer": " Customer 862 ",
+    "category": "Clothing",
+    "amount": "8620",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 863,
+    "customer": " Customer 863 ",
+    "category": "Food",
+    "amount": "8630",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 864,
+    "customer": " Customer 864 ",
+    "category": "Furniture",
+    "amount": "8640",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 865,
+    "customer": " Customer 865 ",
+    "category": "Electronics",
+    "amount": "8650",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 866,
+    "customer": " Customer 866 ",
+    "category": "Clothing",
+    "amount": "8660",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 867,
+    "customer": " Customer 867 ",
+    "category": "Food",
+    "amount": "8670",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 868,
+    "customer": " Customer 868 ",
+    "category": "Furniture",
+    "amount": "8680",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 869,
+    "customer": " Customer 869 ",
+    "category": "Electronics",
+    "amount": "8690",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 870,
+    "customer": " Customer 870 ",
+    "category": "Clothing",
+    "amount": "8700",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 871,
+    "customer": " Customer 871 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 872,
+    "customer": " Customer 872 ",
+    "category": "Furniture",
+    "amount": "8720",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 873,
+    "customer": " Customer 873 ",
+    "category": "Electronics",
+    "amount": "8730",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 874,
+    "customer": " Customer 874 ",
+    "category": "Clothing",
+    "amount": "8740",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 875,
+    "customer": " Customer 875 ",
+    "category": "Food",
+    "amount": "8750",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 876,
+    "customer": " Customer 876 ",
+    "category": "Furniture",
+    "amount": "8760",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 877,
+    "customer": " Customer 877 ",
+    "category": "Electronics",
+    "amount": "8770",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 878,
+    "customer": " Customer 878 ",
+    "category": "Clothing",
+    "amount": "8780",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 879,
+    "customer": " Customer 879 ",
+    "category": "Food",
+    "amount": "8790",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 880,
+    "customer": " Customer 880 ",
+    "category": "Furniture",
+    "amount": "8800",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 881,
+    "customer": " Customer 881 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 882,
+    "customer": " Customer 882 ",
+    "category": "Clothing",
+    "amount": "8820",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 883,
+    "customer": " Customer 883 ",
+    "category": "Food",
+    "amount": "8830",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 884,
+    "customer": " Customer 884 ",
+    "category": "Furniture",
+    "amount": "8840",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 885,
+    "customer": " Customer 885 ",
+    "category": "Electronics",
+    "amount": "8850",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 886,
+    "customer": " Customer 886 ",
+    "category": "Clothing",
+    "amount": "8860",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 887,
+    "customer": " Customer 887 ",
+    "category": "Food",
+    "amount": "8870",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 888,
+    "customer": " Customer 888 ",
+    "category": "Furniture",
+    "amount": "8880",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 889,
+    "customer": " Customer 889 ",
+    "category": "Electronics",
+    "amount": "8890",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 890,
+    "customer": " Customer 890 ",
+    "category": "Clothing",
+    "amount": "8900",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 891,
+    "customer": " Customer 891 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 892,
+    "customer": " Customer 892 ",
+    "category": "Furniture",
+    "amount": "8920",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 893,
+    "customer": " Customer 893 ",
+    "category": "Electronics",
+    "amount": "8930",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 894,
+    "customer": " Customer 894 ",
+    "category": "Clothing",
+    "amount": "8940",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 895,
+    "customer": " Customer 895 ",
+    "category": "Food",
+    "amount": "8950",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 896,
+    "customer": " Customer 896 ",
+    "category": "Furniture",
+    "amount": "8960",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 897,
+    "customer": " Customer 897 ",
+    "category": "Electronics",
+    "amount": "8970",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 898,
+    "customer": " Customer 898 ",
+    "category": "Clothing",
+    "amount": "8980",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 899,
+    "customer": " Customer 899 ",
+    "category": "Food",
+    "amount": "8990",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 900,
+    "customer": " Customer 900 ",
+    "category": "Furniture",
+    "amount": "9000",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 901,
+    "customer": " Customer 901 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 902,
+    "customer": " Customer 902 ",
+    "category": "Clothing",
+    "amount": "9020",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 903,
+    "customer": " Customer 903 ",
+    "category": "Food",
+    "amount": "9030",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 904,
+    "customer": " Customer 904 ",
+    "category": "Furniture",
+    "amount": "9040",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 905,
+    "customer": " Customer 905 ",
+    "category": "Electronics",
+    "amount": "9050",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 906,
+    "customer": " Customer 906 ",
+    "category": "Clothing",
+    "amount": "9060",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 907,
+    "customer": " Customer 907 ",
+    "category": "Food",
+    "amount": "9070",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 908,
+    "customer": " Customer 908 ",
+    "category": "Furniture",
+    "amount": "9080",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 909,
+    "customer": " Customer 909 ",
+    "category": "Electronics",
+    "amount": "9090",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 910,
+    "customer": " Customer 910 ",
+    "category": "Clothing",
+    "amount": "9100",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 911,
+    "customer": " Customer 911 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 912,
+    "customer": " Customer 912 ",
+    "category": "Furniture",
+    "amount": "9120",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 913,
+    "customer": " Customer 913 ",
+    "category": "Electronics",
+    "amount": "9130",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 914,
+    "customer": " Customer 914 ",
+    "category": "Clothing",
+    "amount": "9140",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 915,
+    "customer": " Customer 915 ",
+    "category": "Food",
+    "amount": "9150",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 916,
+    "customer": " Customer 916 ",
+    "category": "Furniture",
+    "amount": "9160",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 917,
+    "customer": " Customer 917 ",
+    "category": "Electronics",
+    "amount": "9170",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 918,
+    "customer": " Customer 918 ",
+    "category": "Clothing",
+    "amount": "9180",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 919,
+    "customer": " Customer 919 ",
+    "category": "Food",
+    "amount": "9190",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 920,
+    "customer": " Customer 920 ",
+    "category": "Furniture",
+    "amount": "9200",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 921,
+    "customer": " Customer 921 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 922,
+    "customer": " Customer 922 ",
+    "category": "Clothing",
+    "amount": "9220",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 923,
+    "customer": " Customer 923 ",
+    "category": "Food",
+    "amount": "9230",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 924,
+    "customer": " Customer 924 ",
+    "category": "Furniture",
+    "amount": "9240",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 925,
+    "customer": " Customer 925 ",
+    "category": "Electronics",
+    "amount": "9250",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 926,
+    "customer": " Customer 926 ",
+    "category": "Clothing",
+    "amount": "9260",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 927,
+    "customer": " Customer 927 ",
+    "category": "Food",
+    "amount": "9270",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 928,
+    "customer": " Customer 928 ",
+    "category": "Furniture",
+    "amount": "9280",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 929,
+    "customer": " Customer 929 ",
+    "category": "Electronics",
+    "amount": "9290",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 930,
+    "customer": " Customer 930 ",
+    "category": "Clothing",
+    "amount": "9300",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 931,
+    "customer": " Customer 931 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 932,
+    "customer": " Customer 932 ",
+    "category": "Furniture",
+    "amount": "9320",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 933,
+    "customer": " Customer 933 ",
+    "category": "Electronics",
+    "amount": "9330",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 934,
+    "customer": " Customer 934 ",
+    "category": "Clothing",
+    "amount": "9340",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 935,
+    "customer": " Customer 935 ",
+    "category": "Food",
+    "amount": "9350",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 936,
+    "customer": " Customer 936 ",
+    "category": "Furniture",
+    "amount": "9360",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 937,
+    "customer": " Customer 937 ",
+    "category": "Electronics",
+    "amount": "9370",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 938,
+    "customer": " Customer 938 ",
+    "category": "Clothing",
+    "amount": "9380",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 939,
+    "customer": " Customer 939 ",
+    "category": "Food",
+    "amount": "9390",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 940,
+    "customer": " Customer 940 ",
+    "category": "Furniture",
+    "amount": "9400",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 941,
+    "customer": " Customer 941 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 942,
+    "customer": " Customer 942 ",
+    "category": "Clothing",
+    "amount": "9420",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 943,
+    "customer": " Customer 943 ",
+    "category": "Food",
+    "amount": "9430",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 944,
+    "customer": " Customer 944 ",
+    "category": "Furniture",
+    "amount": "9440",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 945,
+    "customer": " Customer 945 ",
+    "category": "Electronics",
+    "amount": "9450",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 946,
+    "customer": " Customer 946 ",
+    "category": "Clothing",
+    "amount": "9460",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 947,
+    "customer": " Customer 947 ",
+    "category": "Food",
+    "amount": "9470",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 948,
+    "customer": " Customer 948 ",
+    "category": "Furniture",
+    "amount": "9480",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 949,
+    "customer": " Customer 949 ",
+    "category": "Electronics",
+    "amount": "9490",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 950,
+    "customer": " Customer 950 ",
+    "category": "Clothing",
+    "amount": "9500",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 951,
+    "customer": " Customer 951 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 952,
+    "customer": " Customer 952 ",
+    "category": "Furniture",
+    "amount": "9520",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 953,
+    "customer": " Customer 953 ",
+    "category": "Electronics",
+    "amount": "9530",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 954,
+    "customer": " Customer 954 ",
+    "category": "Clothing",
+    "amount": "9540",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 955,
+    "customer": " Customer 955 ",
+    "category": "Food",
+    "amount": "9550",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 956,
+    "customer": " Customer 956 ",
+    "category": "Furniture",
+    "amount": "9560",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 957,
+    "customer": " Customer 957 ",
+    "category": "Electronics",
+    "amount": "9570",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 958,
+    "customer": " Customer 958 ",
+    "category": "Clothing",
+    "amount": "9580",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 959,
+    "customer": " Customer 959 ",
+    "category": "Food",
+    "amount": "9590",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 960,
+    "customer": " Customer 960 ",
+    "category": "Furniture",
+    "amount": "9600",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 961,
+    "customer": " Customer 961 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 962,
+    "customer": " Customer 962 ",
+    "category": "Clothing",
+    "amount": "9620",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 963,
+    "customer": " Customer 963 ",
+    "category": "Food",
+    "amount": "9630",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 964,
+    "customer": " Customer 964 ",
+    "category": "Furniture",
+    "amount": "9640",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 965,
+    "customer": " Customer 965 ",
+    "category": "Electronics",
+    "amount": "9650",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 966,
+    "customer": " Customer 966 ",
+    "category": "Clothing",
+    "amount": "9660",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 967,
+    "customer": " Customer 967 ",
+    "category": "Food",
+    "amount": "9670",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 968,
+    "customer": " Customer 968 ",
+    "category": "Furniture",
+    "amount": "9680",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 969,
+    "customer": " Customer 969 ",
+    "category": "Electronics",
+    "amount": "9690",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 970,
+    "customer": " Customer 970 ",
+    "category": "Clothing",
+    "amount": "9700",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 971,
+    "customer": " Customer 971 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 972,
+    "customer": " Customer 972 ",
+    "category": "Furniture",
+    "amount": "9720",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 973,
+    "customer": " Customer 973 ",
+    "category": "Electronics",
+    "amount": "9730",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 974,
+    "customer": " Customer 974 ",
+    "category": "Clothing",
+    "amount": "9740",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 975,
+    "customer": " Customer 975 ",
+    "category": "Food",
+    "amount": "9750",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 976,
+    "customer": " Customer 976 ",
+    "category": "Furniture",
+    "amount": "9760",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 977,
+    "customer": " Customer 977 ",
+    "category": "Electronics",
+    "amount": "9770",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 978,
+    "customer": " Customer 978 ",
+    "category": "Clothing",
+    "amount": "9780",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 979,
+    "customer": " Customer 979 ",
+    "category": "Food",
+    "amount": "9790",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 980,
+    "customer": " Customer 980 ",
+    "category": "Furniture",
+    "amount": "9800",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 981,
+    "customer": " Customer 981 ",
+    "category": "Electronics",
+    "amount": "invalid",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 982,
+    "customer": " Customer 982 ",
+    "category": "Clothing",
+    "amount": "9820",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 983,
+    "customer": " Customer 983 ",
+    "category": "Food",
+    "amount": "9830",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 984,
+    "customer": " Customer 984 ",
+    "category": "Furniture",
+    "amount": "9840",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 985,
+    "customer": " Customer 985 ",
+    "category": "Electronics",
+    "amount": "9850",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 986,
+    "customer": " Customer 986 ",
+    "category": "Clothing",
+    "amount": "9860",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 987,
+    "customer": " Customer 987 ",
+    "category": "Food",
+    "amount": "9870",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 988,
+    "customer": " Customer 988 ",
+    "category": "Furniture",
+    "amount": "9880",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  },
+  {
+    "order_id": 989,
+    "customer": " Customer 989 ",
+    "category": "Electronics",
+    "amount": "9890",
+    "status": "pending",
+    "date": "2026-05-15"
+  },
+  {
+    "order_id": 990,
+    "customer": " Customer 990 ",
+    "category": "Clothing",
+    "amount": "9900",
+    "status": "pending",
+    "date": "2026-06-15"
+  },
+  {
+    "order_id": 991,
+    "customer": " Customer 991 ",
+    "category": "Food",
+    "amount": "invalid",
+    "status": " COMPLETED ",
+    "date": "2026-07-15"
+  },
+  {
+    "order_id": 992,
+    "customer": " Customer 992 ",
+    "category": "Furniture",
+    "amount": "9920",
+    "status": "pending",
+    "date": "2026-08-15"
+  },
+  {
+    "order_id": 993,
+    "customer": " Customer 993 ",
+    "category": "Electronics",
+    "amount": "9930",
+    "status": "pending",
+    "date": "2026-09-15"
+  },
+  {
+    "order_id": 994,
+    "customer": " Customer 994 ",
+    "category": "Clothing",
+    "amount": "9940",
+    "status": " COMPLETED ",
+    "date": "2026-10-15"
+  },
+  {
+    "order_id": 995,
+    "customer": " Customer 995 ",
+    "category": "Food",
+    "amount": "9950",
+    "status": "pending",
+    "date": "2026-11-15"
+  },
+  {
+    "order_id": 996,
+    "customer": " Customer 996 ",
+    "category": "Furniture",
+    "amount": "9960",
+    "status": "pending",
+    "date": "2026-12-15"
+  },
+  {
+    "order_id": 997,
+    "customer": " Customer 997 ",
+    "category": "Electronics",
+    "amount": "9970",
+    "status": " COMPLETED ",
+    "date": "2026-01-15"
+  },
+  {
+    "order_id": 998,
+    "customer": " Customer 998 ",
+    "category": "Clothing",
+    "amount": "9980",
+    "status": "pending",
+    "date": "2026-02-15"
+  },
+  {
+    "order_id": 999,
+    "customer": " Customer 999 ",
+    "category": "Food",
+    "amount": "9990",
+    "status": "pending",
+    "date": "2026-03-15"
+  },
+  {
+    "order_id": 1000,
+    "customer": " Customer 1000 ",
+    "category": "Furniture",
+    "amount": "10000",
+    "status": " COMPLETED ",
+    "date": "2026-04-15"
+  }
+]
